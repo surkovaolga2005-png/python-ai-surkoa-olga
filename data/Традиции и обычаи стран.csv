@@ -1,0 +1,641 @@
+type,typeLabelRu,traditionsCount,exampleTradition,country,countryLabelRu
+http://www.wikidata.org/entity/Q132241,фестиваль,549,Тамборрада,http://www.wikidata.org/entity/Q29,Испания
+http://www.wikidata.org/entity/Q132241,фестиваль,275,Аутфест,http://www.wikidata.org/entity/Q30,США
+http://www.wikidata.org/entity/Q132241,фестиваль,256,Havmanndagene,http://www.wikidata.org/entity/Q20,Норвегия
+http://www.wikidata.org/entity/Q132241,фестиваль,255,Айстедвод,http://www.wikidata.org/entity/Q145,Великобритания
+http://www.wikidata.org/entity/Q132241,фестиваль,188,Series Mania,http://www.wikidata.org/entity/Q142,Франция
+http://www.wikidata.org/entity/Q132241,фестиваль,184,Лагосский карнавал,http://www.wikidata.org/entity/Q1033,Нигерия
+http://www.wikidata.org/entity/Q132241,фестиваль,180,Ава-одори,http://www.wikidata.org/entity/Q17,Япония
+http://www.wikidata.org/entity/Q132241,фестиваль,164,Альмабтриб,http://www.wikidata.org/entity/Q39,Швейцария
+http://www.wikidata.org/entity/Q132241,фестиваль,138,,http://www.wikidata.org/entity/Q117,Гана
+http://www.wikidata.org/entity/Q132241,фестиваль,132,Рама-навами,http://www.wikidata.org/entity/Q668,Индия
+http://www.wikidata.org/entity/Q132241,фестиваль,131,Ландсхутская свадьба,http://www.wikidata.org/entity/Q183,Германия
+http://www.wikidata.org/entity/Q132241,фестиваль,127,Кинофестиваль в Торонто — 2007,http://www.wikidata.org/entity/Q16,Канада
+http://www.wikidata.org/entity/Q132241,фестиваль,120,Impakt Festival,http://www.wikidata.org/entity/Q55,Нидерланды
+http://www.wikidata.org/entity/Q132241,фестиваль,113,,http://www.wikidata.org/entity/Q31,Бельгия
+http://www.wikidata.org/entity/Q132241,фестиваль,103,Бразильский карнавал,http://www.wikidata.org/entity/Q155,Бразилия
+http://www.wikidata.org/entity/Q132241,фестиваль,96,Игнис Бруненсис,http://www.wikidata.org/entity/Q213,Чехия
+http://www.wikidata.org/entity/Q82821,традиция,93,индуизм в Индонезии,http://www.wikidata.org/entity/Q252,Индонезия
+http://www.wikidata.org/entity/Q2627975,церемония,93,Намахагэ,http://www.wikidata.org/entity/Q17,Япония
+http://www.wikidata.org/entity/Q132241,фестиваль,91,Альмабтриб,http://www.wikidata.org/entity/Q38,Италия
+http://www.wikidata.org/entity/Q132241,фестиваль,88,Уроки режиссуры,http://www.wikidata.org/entity/Q159,Россия
+http://www.wikidata.org/entity/Q82821,традиция,87,Намахагэ,http://www.wikidata.org/entity/Q17,Япония
+http://www.wikidata.org/entity/Q132241,фестиваль,80,Балткон,http://www.wikidata.org/entity/Q34,Швеция
+http://www.wikidata.org/entity/Q82821,традиция,67,Пастуший прыжок,http://www.wikidata.org/entity/Q29,Испания
+http://www.wikidata.org/entity/Q82821,традиция,63,Каларипаятту,http://www.wikidata.org/entity/Q668,Индия
+http://www.wikidata.org/entity/Q132241,фестиваль,53,,http://www.wikidata.org/entity/Q408,Австралия
+http://www.wikidata.org/entity/Q132241,фестиваль,52,Альмабтриб,http://www.wikidata.org/entity/Q36,Польша
+http://www.wikidata.org/entity/Q132241,фестиваль,50,Международный фестиваль кино и музыки «Кустендорф»,http://www.wikidata.org/entity/Q403,Сербия
+http://www.wikidata.org/entity/Q132241,фестиваль,49,,http://www.wikidata.org/entity/Q96,Мексика
+http://www.wikidata.org/entity/Q132241,фестиваль,47,Битва наций,http://www.wikidata.org/entity/Q212,Украина
+http://www.wikidata.org/entity/Q36192,фольклор,45,Пастуший прыжок,http://www.wikidata.org/entity/Q29,Испания
+http://www.wikidata.org/entity/Q82821,традиция,44,Силат,http://www.wikidata.org/entity/Q55,Нидерланды
+http://www.wikidata.org/entity/Q82821,традиция,43,фольклор США,http://www.wikidata.org/entity/Q30,США
+http://www.wikidata.org/entity/Q132241,фестиваль,40,,http://www.wikidata.org/entity/Q884,Республика Корея
+http://www.wikidata.org/entity/Q82821,традиция,37,бельгийский фольклор,http://www.wikidata.org/entity/Q31,Бельгия
+http://www.wikidata.org/entity/Q132241,фестиваль,37,Рожен (фестиваль),http://www.wikidata.org/entity/Q219,Болгария
+http://www.wikidata.org/entity/Q132241,фестиваль,36,Балткон,http://www.wikidata.org/entity/Q33,Финляндия
+http://www.wikidata.org/entity/Q132241,фестиваль,34,Мелодия Евровидения,http://www.wikidata.org/entity/Q215,Словения
+http://www.wikidata.org/entity/Q2207288,ремесло,33,китайский компас,http://www.wikidata.org/entity/Q884,Республика Корея
+http://www.wikidata.org/entity/Q132241,фестиваль,31,Альмабтриб,http://www.wikidata.org/entity/Q40,Австрия
+http://www.wikidata.org/entity/Q132241,фестиваль,30,Неделя ирландского языка,http://www.wikidata.org/entity/Q27,Ирландия
+http://www.wikidata.org/entity/Q132241,фестиваль,29,,http://www.wikidata.org/entity/Q28,Венгрия
+http://www.wikidata.org/entity/Q132241,фестиваль,29,"Фестиваль ""Разоблачения""",http://www.wikidata.org/entity/Q224,Хорватия
+http://www.wikidata.org/entity/Q132241,фестиваль,28,Праздник драконьих лодок,http://www.wikidata.org/entity/Q148,Китай
+http://www.wikidata.org/entity/Q132241,фестиваль,28,Эстонский праздник песни,http://www.wikidata.org/entity/Q191,Эстония
+http://www.wikidata.org/entity/Q2627975,церемония,28,Церемония Первой борозды,http://www.wikidata.org/entity/Q869,Таиланд
+http://www.wikidata.org/entity/Q82821,традиция,27,мифология Италии,http://www.wikidata.org/entity/Q38,Италия
+http://www.wikidata.org/entity/Q132241,фестиваль,27,Фестиваль Кадырга,http://www.wikidata.org/entity/Q43,Турция
+http://www.wikidata.org/entity/Q82821,традиция,26,английский фольклор,http://www.wikidata.org/entity/Q145,Великобритания
+http://www.wikidata.org/entity/Q82821,традиция,26,китайский фольклор,http://www.wikidata.org/entity/Q148,Китай
+http://www.wikidata.org/entity/Q82821,традиция,26,индуизм на Мартинике,http://www.wikidata.org/entity/Q142,Франция
+http://www.wikidata.org/entity/Q132241,фестиваль,26,,http://www.wikidata.org/entity/Q739,Колумбия
+http://www.wikidata.org/entity/Q2627975,церемония,26,,http://www.wikidata.org/entity/Q252,Индонезия
+http://www.wikidata.org/entity/Q82821,традиция,25,Гжель,http://www.wikidata.org/entity/Q159,Россия
+http://www.wikidata.org/entity/Q82821,традиция,24,восточнофризская чайная культура,http://www.wikidata.org/entity/Q183,Германия
+http://www.wikidata.org/entity/Q132241,фестиваль,24,Праздник драконьих лодок,http://www.wikidata.org/entity/Q865,Китайская Республика (Тайвань)
+http://www.wikidata.org/entity/Q2627975,церемония,24,Дурга-пуджа,http://www.wikidata.org/entity/Q668,Индия
+http://www.wikidata.org/entity/Q82821,традиция,23,фольклор Квебека,http://www.wikidata.org/entity/Q16,Канада
+http://www.wikidata.org/entity/Q132241,фестиваль,23,Copenhagen Pride,http://www.wikidata.org/entity/Q35,Дания
+http://www.wikidata.org/entity/Q132241,фестиваль,23,Синулог,http://www.wikidata.org/entity/Q928,Филиппины
+http://www.wikidata.org/entity/Q2627975,церемония,22,Рапа-дас-Бестас,http://www.wikidata.org/entity/Q29,Испания
+http://www.wikidata.org/entity/Q132241,фестиваль,21,Дельфийские фестивали,http://www.wikidata.org/entity/Q41,Греция
+http://www.wikidata.org/entity/Q132241,фестиваль,21,Панафинеи,http://www.wikidata.org/entity/Q844930,Древние Афины
+http://www.wikidata.org/entity/Q132241,фестиваль,21,,http://www.wikidata.org/entity/Q45,Португалия
+http://www.wikidata.org/entity/Q132241,фестиваль,20,День белорусской письменности,http://www.wikidata.org/entity/Q184,Беларусь
+http://www.wikidata.org/entity/Q2627975,церемония,20,церемония вручения «Оскаров»,http://www.wikidata.org/entity/Q30,США
+http://www.wikidata.org/entity/Q2207288,ремесло,19,,http://www.wikidata.org/entity/Q45,Португалия
+http://www.wikidata.org/entity/Q132241,фестиваль,19,Матарики,http://www.wikidata.org/entity/Q664,Новая Зеландия
+http://www.wikidata.org/entity/Q132241,фестиваль,19,,http://www.wikidata.org/entity/Q218,Румыния
+http://www.wikidata.org/entity/Q82821,традиция,18,индуизм в Португалии,http://www.wikidata.org/entity/Q45,Португалия
+http://www.wikidata.org/entity/Q82821,традиция,18,Тхэккён,http://www.wikidata.org/entity/Q884,Республика Корея
+http://www.wikidata.org/entity/Q132241,фестиваль,18,,http://www.wikidata.org/entity/Q1028,Марокко
+http://www.wikidata.org/entity/Q82821,традиция,17,индуизм в Армении,http://www.wikidata.org/entity/Q399,Армения
+http://www.wikidata.org/entity/Q36192,фольклор,17,бельгийский фольклор,http://www.wikidata.org/entity/Q31,Бельгия
+http://www.wikidata.org/entity/Q82821,традиция,16,славянское неоязычество,http://www.wikidata.org/entity/Q36,Польша
+http://www.wikidata.org/entity/Q82821,традиция,16,славянское неоязычество,http://www.wikidata.org/entity/Q212,Украина
+http://www.wikidata.org/entity/Q82821,традиция,15,австралийская кухня,http://www.wikidata.org/entity/Q408,Австралия
+http://www.wikidata.org/entity/Q36192,фольклор,15,фольклор Индонезии,http://www.wikidata.org/entity/Q252,Индонезия
+http://www.wikidata.org/entity/Q82821,традиция,14,капоэйра,http://www.wikidata.org/entity/Q155,Бразилия
+http://www.wikidata.org/entity/Q132241,фестиваль,14,КинОле,http://www.wikidata.org/entity/Q801,Израиль
+http://www.wikidata.org/entity/Q132241,фестиваль,14,,http://www.wikidata.org/entity/Q252,Индонезия
+http://www.wikidata.org/entity/Q132241,фестиваль,14,,http://www.wikidata.org/entity/Q298,Чили
+http://www.wikidata.org/entity/Q2627975,церемония,14,объявление независимости Израиля,http://www.wikidata.org/entity/Q801,Израиль
+http://www.wikidata.org/entity/Q2207288,ремесло,13,,http://www.wikidata.org/entity/Q17,Япония
+http://www.wikidata.org/entity/Q82821,традиция,13,Минка,http://www.wikidata.org/entity/Q419,Перу
+http://www.wikidata.org/entity/Q132241,фестиваль,13,,http://www.wikidata.org/entity/Q414,Аргентина
+http://www.wikidata.org/entity/Q132241,фестиваль,13,Праздник песни и танца,http://www.wikidata.org/entity/Q211,Латвия
+http://www.wikidata.org/entity/Q132241,фестиваль,13,Рама-навами,http://www.wikidata.org/entity/Q837,Непал
+http://www.wikidata.org/entity/Q82821,традиция,12,славянское неоязычество,http://www.wikidata.org/entity/Q184,Беларусь
+http://www.wikidata.org/entity/Q82821,традиция,12,славянское неоязычество,http://www.wikidata.org/entity/Q219,Болгария
+http://www.wikidata.org/entity/Q82821,традиция,12,китайский фольклор,http://www.wikidata.org/entity/Q865,Китайская Республика (Тайвань)
+http://www.wikidata.org/entity/Q82821,традиция,12,панджабская кухня,http://www.wikidata.org/entity/Q843,Пакистан
+http://www.wikidata.org/entity/Q132241,фестиваль,12,,http://www.wikidata.org/entity/Q419,Перу
+http://www.wikidata.org/entity/Q36192,фольклор,12,мифология Италии,http://www.wikidata.org/entity/Q38,Италия
+http://www.wikidata.org/entity/Q2627975,церемония,12,Праздник Федерации,http://www.wikidata.org/entity/Q142,Франция
+http://www.wikidata.org/entity/Q2207288,ремесло,11,Гжель,http://www.wikidata.org/entity/Q159,Россия
+http://www.wikidata.org/entity/Q82821,традиция,11,Дурга-пуджа,http://www.wikidata.org/entity/Q902,Бангладеш
+http://www.wikidata.org/entity/Q82821,традиция,11,Арья самадж в Уганде,http://www.wikidata.org/entity/Q1036,Уганда
+http://www.wikidata.org/entity/Q82821,традиция,11,Боевые искусства Филиппин,http://www.wikidata.org/entity/Q928,Филиппины
+http://www.wikidata.org/entity/Q82821,традиция,11,фольклор Финляндии,http://www.wikidata.org/entity/Q33,Финляндия
+http://www.wikidata.org/entity/Q132241,фестиваль,11,,http://www.wikidata.org/entity/Q114,Кения
+http://www.wikidata.org/entity/Q132241,фестиваль,11,«Дженадрия»,http://www.wikidata.org/entity/Q851,Саудовская Аравия
+http://www.wikidata.org/entity/Q36192,фольклор,11,фольклор США,http://www.wikidata.org/entity/Q30,США
+http://www.wikidata.org/entity/Q82821,традиция,10,индуизм в Мексике,http://www.wikidata.org/entity/Q96,Мексика
+http://www.wikidata.org/entity/Q82821,традиция,10,индуизм в Швейцарии,http://www.wikidata.org/entity/Q39,Швейцария
+http://www.wikidata.org/entity/Q132241,фестиваль,10,Дивали,http://www.wikidata.org/entity/Q334,Сингапур
+http://www.wikidata.org/entity/Q36192,фольклор,10,японская народная сказка,http://www.wikidata.org/entity/Q17,Япония
+http://www.wikidata.org/entity/Q82821,традиция,9,Рождество в Швеции,http://www.wikidata.org/entity/Q34,Швеция
+http://www.wikidata.org/entity/Q132241,фестиваль,9,Робигалии,http://www.wikidata.org/entity/Q1747689,Древний Рим
+http://www.wikidata.org/entity/Q132241,фестиваль,9,Ялда,http://www.wikidata.org/entity/Q794,Иран
+http://www.wikidata.org/entity/Q132241,фестиваль,9,,http://www.wikidata.org/entity/Q1009,Камерун
+http://www.wikidata.org/entity/Q132241,фестиваль,9,,http://www.wikidata.org/entity/Q1008,Кот-д’Ивуар
+http://www.wikidata.org/entity/Q132241,фестиваль,9,Кремницкие гэги,http://www.wikidata.org/entity/Q214,Словакия
+http://www.wikidata.org/entity/Q132241,фестиваль,9,Карнеи,http://www.wikidata.org/entity/Q5690,Спарта
+http://www.wikidata.org/entity/Q2627975,церемония,9,канху-тэ,http://www.wikidata.org/entity/Q148,Китай
+http://www.wikidata.org/entity/Q2207288,ремесло,8,Конный промысел креветок в Оостдюнкерке,http://www.wikidata.org/entity/Q31,Бельгия
+http://www.wikidata.org/entity/Q82821,традиция,8,индуизм в Австрии,http://www.wikidata.org/entity/Q40,Австрия
+http://www.wikidata.org/entity/Q82821,традиция,8,славянское неоязычество,http://www.wikidata.org/entity/Q215,Словения
+http://www.wikidata.org/entity/Q82821,традиция,8,чилотская мифология,http://www.wikidata.org/entity/Q298,Чили
+http://www.wikidata.org/entity/Q132241,фестиваль,8,Кришна-джанмаштами,http://www.wikidata.org/entity/Q902,Бангладеш
+http://www.wikidata.org/entity/Q132241,фестиваль,8,,http://www.wikidata.org/entity/Q962,Бенин
+http://www.wikidata.org/entity/Q132241,фестиваль,8,,http://www.wikidata.org/entity/Q881,Вьетнам
+http://www.wikidata.org/entity/Q132241,фестиваль,8,,http://www.wikidata.org/entity/Q219060,Государство Палестина
+http://www.wikidata.org/entity/Q132241,фестиваль,8,Балтийский праздник песни и танца,http://www.wikidata.org/entity/Q37,Литва
+http://www.wikidata.org/entity/Q132241,фестиваль,8,Международный фестиваль в Дугге,http://www.wikidata.org/entity/Q948,Тунис
+http://www.wikidata.org/entity/Q36192,фольклор,8,английский фольклор,http://www.wikidata.org/entity/Q145,Великобритания
+http://www.wikidata.org/entity/Q2627975,церемония,8,,http://www.wikidata.org/entity/Q155,Бразилия
+http://www.wikidata.org/entity/Q82821,традиция,7,датский фольклор,http://www.wikidata.org/entity/Q35,Дания
+http://www.wikidata.org/entity/Q82821,традиция,7,Ялда,http://www.wikidata.org/entity/Q794,Иран
+http://www.wikidata.org/entity/Q82821,традиция,7,Русские обычаи,http://www.wikidata.org/entity/Q232,Казахстан
+http://www.wikidata.org/entity/Q82821,традиция,7,индуизм в Малайзии,http://www.wikidata.org/entity/Q833,Малайзия
+http://www.wikidata.org/entity/Q82821,традиция,7,славянское неоязычество,http://www.wikidata.org/entity/Q213,Чехия
+http://www.wikidata.org/entity/Q132241,фестиваль,7,,http://www.wikidata.org/entity/Q262,Алжир
+http://www.wikidata.org/entity/Q132241,фестиваль,7,Фестиваль Опет,http://www.wikidata.org/entity/Q79,Египет
+http://www.wikidata.org/entity/Q132241,фестиваль,7,,http://www.wikidata.org/entity/Q945,Того
+http://www.wikidata.org/entity/Q132241,фестиваль,7,,http://www.wikidata.org/entity/Q736,Эквадор
+http://www.wikidata.org/entity/Q36192,фольклор,7,русская сказка,http://www.wikidata.org/entity/Q159,Россия
+http://www.wikidata.org/entity/Q36192,фольклор,7,баскский сельский спорт,http://www.wikidata.org/entity/Q142,Франция
+http://www.wikidata.org/entity/Q2627975,церемония,7,,http://www.wikidata.org/entity/Q31,Бельгия
+http://www.wikidata.org/entity/Q2627975,церемония,7,MOBO Awards,http://www.wikidata.org/entity/Q145,Великобритания
+http://www.wikidata.org/entity/Q2627975,церемония,7,Цзи Ли (церемония),http://www.wikidata.org/entity/Q884,Республика Корея
+http://www.wikidata.org/entity/Q2627975,церемония,7,Рождество в Швеции,http://www.wikidata.org/entity/Q34,Швеция
+http://www.wikidata.org/entity/Q2207288,ремесло,6,окрашивание яиц,http://www.wikidata.org/entity/Q794,Иран
+http://www.wikidata.org/entity/Q82821,традиция,6,индуизм в Венгрии,http://www.wikidata.org/entity/Q28,Венгрия
+http://www.wikidata.org/entity/Q82821,традиция,6,Mos maiorum,http://www.wikidata.org/entity/Q1747689,Древний Рим
+http://www.wikidata.org/entity/Q82821,традиция,6,тайское приветствие,http://www.wikidata.org/entity/Q869,Таиланд
+http://www.wikidata.org/entity/Q132241,фестиваль,6,Праздник граната,http://www.wikidata.org/entity/Q227,Азербайджан
+http://www.wikidata.org/entity/Q132241,фестиваль,6,Тбилисоба,http://www.wikidata.org/entity/Q230,Грузия
+http://www.wikidata.org/entity/Q132241,фестиваль,6,Понгал,http://www.wikidata.org/entity/Q833,Малайзия
+http://www.wikidata.org/entity/Q132241,фестиваль,6,,http://www.wikidata.org/entity/Q843,Пакистан
+http://www.wikidata.org/entity/Q132241,фестиваль,6,Деценалия,http://www.wikidata.org/entity/Q2277,Римская империя
+http://www.wikidata.org/entity/Q132241,фестиваль,6,Дивали,http://www.wikidata.org/entity/Q730,Суринам
+http://www.wikidata.org/entity/Q2627975,церемония,6,,http://www.wikidata.org/entity/Q408,Австралия
+http://www.wikidata.org/entity/Q2627975,церемония,6,Дурга-пуджа,http://www.wikidata.org/entity/Q902,Бангладеш
+http://www.wikidata.org/entity/Q2627975,церемония,6,восточнофризская чайная культура,http://www.wikidata.org/entity/Q183,Германия
+http://www.wikidata.org/entity/Q2627975,церемония,6,,http://www.wikidata.org/entity/Q33,Финляндия
+http://www.wikidata.org/entity/Q2207288,ремесло,5,алжирская вышивка,http://www.wikidata.org/entity/Q262,Алжир
+http://www.wikidata.org/entity/Q2207288,ремесло,5,испанская вышивка,http://www.wikidata.org/entity/Q29,Испания
+http://www.wikidata.org/entity/Q2207288,ремесло,5,Странствующие подмастерья,http://www.wikidata.org/entity/Q142,Франция
+http://www.wikidata.org/entity/Q82821,традиция,5,славянское неоязычество,http://www.wikidata.org/entity/Q225,Босния и Герцеговина
+http://www.wikidata.org/entity/Q82821,традиция,5,Крав-мага,http://www.wikidata.org/entity/Q801,Израиль
+http://www.wikidata.org/entity/Q82821,традиция,5,уд,http://www.wikidata.org/entity/Q796,Ирак
+http://www.wikidata.org/entity/Q82821,традиция,5,лесосплав,http://www.wikidata.org/entity/Q211,Латвия
+http://www.wikidata.org/entity/Q82821,традиция,5,писанка,http://www.wikidata.org/entity/Q218,Румыния
+http://www.wikidata.org/entity/Q82821,традиция,5,индуизм в Сингапуре,http://www.wikidata.org/entity/Q334,Сингапур
+http://www.wikidata.org/entity/Q82821,традиция,5,Аския,http://www.wikidata.org/entity/Q265,Узбекистан
+http://www.wikidata.org/entity/Q82821,традиция,5,славянское неоязычество,http://www.wikidata.org/entity/Q224,Хорватия
+http://www.wikidata.org/entity/Q132241,фестиваль,5,,http://www.wikidata.org/entity/Q225,Босния и Герцеговина
+http://www.wikidata.org/entity/Q132241,фестиваль,5,Каравон,http://www.wikidata.org/entity/Q15180,СССР
+http://www.wikidata.org/entity/Q132241,фестиваль,5,Галичницкая свадьба,http://www.wikidata.org/entity/Q221,Северная Македония
+http://www.wikidata.org/entity/Q132241,фестиваль,5,Дивали,http://www.wikidata.org/entity/Q854,Шри-Ланка
+http://www.wikidata.org/entity/Q36192,фольклор,5,фольклор Индии,http://www.wikidata.org/entity/Q668,Индия
+http://www.wikidata.org/entity/Q36192,фольклор,5,китайский фольклор,http://www.wikidata.org/entity/Q865,Китайская Республика (Тайвань)
+http://www.wikidata.org/entity/Q2627975,церемония,5,Международный кинофестиваль «Фаджр»,http://www.wikidata.org/entity/Q794,Иран
+http://www.wikidata.org/entity/Q2627975,церемония,5,Обручение с морем,http://www.wikidata.org/entity/Q38,Италия
+http://www.wikidata.org/entity/Q2627975,церемония,5,,http://www.wikidata.org/entity/Q16,Канада
+http://www.wikidata.org/entity/Q2627975,церемония,5,,http://www.wikidata.org/entity/Q833,Малайзия
+http://www.wikidata.org/entity/Q1131696,обряд перехода,4,Гэмпуку,http://www.wikidata.org/entity/Q17,Япония
+http://www.wikidata.org/entity/Q2207288,ремесло,4,Sunsilk,http://www.wikidata.org/entity/Q145,Великобритания
+http://www.wikidata.org/entity/Q2207288,ремесло,4,качская вышивка,http://www.wikidata.org/entity/Q668,Индия
+http://www.wikidata.org/entity/Q2207288,ремесло,4,окрашивание яиц,http://www.wikidata.org/entity/Q36,Польша
+http://www.wikidata.org/entity/Q82821,традиция,4,Искусство тканья азербайджанских ковров,http://www.wikidata.org/entity/Q227,Азербайджан
+http://www.wikidata.org/entity/Q82821,традиция,4,индуизм в Андорре,http://www.wikidata.org/entity/Q228,Андорра
+http://www.wikidata.org/entity/Q82821,традиция,4,Рождество в Аргентине,http://www.wikidata.org/entity/Q414,Аргентина
+http://www.wikidata.org/entity/Q82821,традиция,4,индуизм во Вьетнаме,http://www.wikidata.org/entity/Q881,Вьетнам
+http://www.wikidata.org/entity/Q82821,традиция,4,индуизм в Гане,http://www.wikidata.org/entity/Q117,Гана
+http://www.wikidata.org/entity/Q82821,традиция,4,Охота на крапивника,http://www.wikidata.org/entity/Q27,Ирландия
+http://www.wikidata.org/entity/Q82821,традиция,4,индуизм в Камбодже,http://www.wikidata.org/entity/Q424,Камбоджа
+http://www.wikidata.org/entity/Q82821,традиция,4,индуизм в Мьянме,http://www.wikidata.org/entity/Q836,Мьянма
+http://www.wikidata.org/entity/Q82821,традиция,4,славянское неоязычество,http://www.wikidata.org/entity/Q403,Сербия
+http://www.wikidata.org/entity/Q82821,традиция,4,,http://www.wikidata.org/entity/Q948,Тунис
+http://www.wikidata.org/entity/Q82821,традиция,4,индуизм в Южной Азии,http://www.wikidata.org/entity/Q854,Шри-Ланка
+http://www.wikidata.org/entity/Q132241,фестиваль,4,Театральный Лори,http://www.wikidata.org/entity/Q399,Армения
+http://www.wikidata.org/entity/Q132241,фестиваль,4,,http://www.wikidata.org/entity/Q122443,Аттика
+http://www.wikidata.org/entity/Q132241,фестиваль,4,,http://www.wikidata.org/entity/Q750,Боливия
+http://www.wikidata.org/entity/Q132241,фестиваль,4,Ферия дель Соль,http://www.wikidata.org/entity/Q717,Венесуэла
+http://www.wikidata.org/entity/Q132241,фестиваль,4,Дивали,http://www.wikidata.org/entity/Q836,Мьянма
+http://www.wikidata.org/entity/Q132241,фестиваль,4,,http://www.wikidata.org/entity/Q1032,Нигер
+http://www.wikidata.org/entity/Q132241,фестиваль,4,,http://www.wikidata.org/entity/Q878,Объединённые Арабские Эмираты
+http://www.wikidata.org/entity/Q132241,фестиваль,4,,http://www.wikidata.org/entity/Q971,Республика Конго
+http://www.wikidata.org/entity/Q132241,фестиваль,4,,http://www.wikidata.org/entity/Q1246,Республика Косово
+http://www.wikidata.org/entity/Q132241,фестиваль,4,,http://www.wikidata.org/entity/Q1041,Сенегал
+http://www.wikidata.org/entity/Q132241,фестиваль,4,,http://www.wikidata.org/entity/Q236,Черногория
+http://www.wikidata.org/entity/Q132241,фестиваль,4,,http://www.wikidata.org/entity/Q258,ЮАР
+http://www.wikidata.org/entity/Q36192,фольклор,4,,http://www.wikidata.org/entity/Q155,Бразилия
+http://www.wikidata.org/entity/Q36192,фольклор,4,фольклор Квебека,http://www.wikidata.org/entity/Q16,Канада
+http://www.wikidata.org/entity/Q36192,фольклор,4,,http://www.wikidata.org/entity/Q1036,Уганда
+http://www.wikidata.org/entity/Q2627975,церемония,4,,http://www.wikidata.org/entity/Q1006,Гвинея
+http://www.wikidata.org/entity/Q2627975,церемония,4,кинофестиваль «Золотая лошадь»,http://www.wikidata.org/entity/Q865,Китайская Республика (Тайвань)
+http://www.wikidata.org/entity/Q2627975,церемония,4,воинское приветствие,http://www.wikidata.org/entity/Q55,Нидерланды
+http://www.wikidata.org/entity/Q2207288,ремесло,3,,http://www.wikidata.org/entity/Q399,Армения
+http://www.wikidata.org/entity/Q2207288,ремесло,3,,http://www.wikidata.org/entity/Q155,Бразилия
+http://www.wikidata.org/entity/Q2207288,ремесло,3,дрезденская вышивка,http://www.wikidata.org/entity/Q183,Германия
+http://www.wikidata.org/entity/Q2207288,ремесло,3,сычуаньская вышивка,http://www.wikidata.org/entity/Q148,Китай
+http://www.wikidata.org/entity/Q2207288,ремесло,3,,http://www.wikidata.org/entity/Q1028,Марокко
+http://www.wikidata.org/entity/Q2207288,ремесло,3,,http://www.wikidata.org/entity/Q419,Перу
+http://www.wikidata.org/entity/Q2207288,ремесло,3,Хорезская керамика,http://www.wikidata.org/entity/Q218,Румыния
+http://www.wikidata.org/entity/Q2207288,ремесло,3,Pantene,http://www.wikidata.org/entity/Q30,США
+http://www.wikidata.org/entity/Q2207288,ремесло,3,,http://www.wikidata.org/entity/Q851,Саудовская Аравия
+http://www.wikidata.org/entity/Q82821,традиция,3,венесуэльская мифология,http://www.wikidata.org/entity/Q717,Венесуэла
+http://www.wikidata.org/entity/Q82821,традиция,3,Древнегреческие мифы о потопе,http://www.wikidata.org/entity/Q41,Греция
+http://www.wikidata.org/entity/Q82821,традиция,3,Чичилаки,http://www.wikidata.org/entity/Q230,Грузия
+http://www.wikidata.org/entity/Q82821,традиция,3,индуизм в Йемене,http://www.wikidata.org/entity/Q805,Йемен
+http://www.wikidata.org/entity/Q82821,традиция,3,ханбок,http://www.wikidata.org/entity/Q423,КНДР
+http://www.wikidata.org/entity/Q82821,традиция,3,Арья самадж в Кении,http://www.wikidata.org/entity/Q114,Кения
+http://www.wikidata.org/entity/Q82821,традиция,3,индуизм в Колумбии,http://www.wikidata.org/entity/Q739,Колумбия
+http://www.wikidata.org/entity/Q82821,традиция,3,индуизм в Южной Азии,http://www.wikidata.org/entity/Q826,Мальдивы
+http://www.wikidata.org/entity/Q82821,традиция,3,индуизм на Мальте,http://www.wikidata.org/entity/Q233,Мальта
+http://www.wikidata.org/entity/Q82821,традиция,3,индуизм в Южной Азии,http://www.wikidata.org/entity/Q837,Непал
+http://www.wikidata.org/entity/Q82821,традиция,3,индуизм в Норвегии,http://www.wikidata.org/entity/Q20,Норвегия
+http://www.wikidata.org/entity/Q82821,традиция,3,славянское неоязычество,http://www.wikidata.org/entity/Q221,Северная Македония
+http://www.wikidata.org/entity/Q82821,традиция,3,славянское неоязычество,http://www.wikidata.org/entity/Q214,Словакия
+http://www.wikidata.org/entity/Q82821,традиция,3,индуизм в Суринаме,http://www.wikidata.org/entity/Q730,Суринам
+http://www.wikidata.org/entity/Q82821,традиция,3,Охота на крапивника,http://www.wikidata.org/entity/Q25,Уэльс
+http://www.wikidata.org/entity/Q82821,традиция,3,фиджийская мифология,http://www.wikidata.org/entity/Q712,Фиджи
+http://www.wikidata.org/entity/Q82821,традиция,3,славянское неоязычество,http://www.wikidata.org/entity/Q236,Черногория
+http://www.wikidata.org/entity/Q82821,традиция,3,Минка,http://www.wikidata.org/entity/Q736,Эквадор
+http://www.wikidata.org/entity/Q82821,традиция,3,индуизм в Эстонии,http://www.wikidata.org/entity/Q191,Эстония
+http://www.wikidata.org/entity/Q82821,традиция,3,эфиопская мифология,http://www.wikidata.org/entity/Q115,Эфиопия
+http://www.wikidata.org/entity/Q82821,традиция,3,индуизм в ЮАР,http://www.wikidata.org/entity/Q258,ЮАР
+http://www.wikidata.org/entity/Q132241,фестиваль,3,,http://www.wikidata.org/entity/Q228,Андорра
+http://www.wikidata.org/entity/Q132241,фестиваль,3,,http://www.wikidata.org/entity/Q21203,Аруба
+http://www.wikidata.org/entity/Q132241,фестиваль,3,,http://www.wikidata.org/entity/Q965,Буркина-Фасо
+http://www.wikidata.org/entity/Q132241,фестиваль,3,,http://www.wikidata.org/entity/Q790,Гаити
+http://www.wikidata.org/entity/Q132241,фестиваль,3,Фестиваль Сумпанго,http://www.wikidata.org/entity/Q774,Гватемала
+http://www.wikidata.org/entity/Q132241,фестиваль,3,,http://www.wikidata.org/entity/Q796,Ирак
+http://www.wikidata.org/entity/Q132241,фестиваль,3,,http://www.wikidata.org/entity/Q189,Исландия
+http://www.wikidata.org/entity/Q132241,фестиваль,3,Приз Традиций,http://www.wikidata.org/entity/Q232,Казахстан
+http://www.wikidata.org/entity/Q132241,фестиваль,3,,http://www.wikidata.org/entity/Q32,Люксембург
+http://www.wikidata.org/entity/Q132241,фестиваль,3,Лойкратхонг,http://www.wikidata.org/entity/Q869,Таиланд
+http://www.wikidata.org/entity/Q132241,фестиваль,3,,http://www.wikidata.org/entity/Q1036,Уганда
+http://www.wikidata.org/entity/Q132241,фестиваль,3,,http://www.wikidata.org/entity/Q77,Уругвай
+http://www.wikidata.org/entity/Q132241,фестиваль,3,,http://www.wikidata.org/entity/Q657,Чад
+http://www.wikidata.org/entity/Q36192,фольклор,3,фольклор Острова Норфолк,http://www.wikidata.org/entity/Q408,Австралия
+http://www.wikidata.org/entity/Q36192,фольклор,3,китайский фольклор,http://www.wikidata.org/entity/Q148,Китай
+http://www.wikidata.org/entity/Q36192,фольклор,3,,http://www.wikidata.org/entity/Q96,Мексика
+http://www.wikidata.org/entity/Q36192,фольклор,3,,http://www.wikidata.org/entity/Q45,Португалия
+http://www.wikidata.org/entity/Q36192,фольклор,3,фольклор Республики Корея,http://www.wikidata.org/entity/Q884,Республика Корея
+http://www.wikidata.org/entity/Q36192,фольклор,3,филиппинская мифология,http://www.wikidata.org/entity/Q928,Филиппины
+http://www.wikidata.org/entity/Q36192,фольклор,3,фольклор Финляндии,http://www.wikidata.org/entity/Q33,Финляндия
+http://www.wikidata.org/entity/Q36192,фольклор,3,чилотская мифология,http://www.wikidata.org/entity/Q298,Чили
+http://www.wikidata.org/entity/Q2627975,церемония,3,Триумф,http://www.wikidata.org/entity/Q1747689,Древний Рим
+http://www.wikidata.org/entity/Q2627975,церемония,3,Охота на крапивника,http://www.wikidata.org/entity/Q27,Ирландия
+http://www.wikidata.org/entity/Q2627975,церемония,3,,http://www.wikidata.org/entity/Q419,Перу
+http://www.wikidata.org/entity/Q2627975,церемония,3,Крещение кукушки,http://www.wikidata.org/entity/Q159,Россия
+http://www.wikidata.org/entity/Q2627975,церемония,3,,http://www.wikidata.org/entity/Q28179,Чосон
+http://www.wikidata.org/entity/Q1131696,обряд перехода,2,,http://www.wikidata.org/entity/Q155,Бразилия
+http://www.wikidata.org/entity/Q2207288,ремесло,2,,http://www.wikidata.org/entity/Q28513,Австро-Венгрия
+http://www.wikidata.org/entity/Q2207288,ремесло,2,змиянская вышивка,http://www.wikidata.org/entity/Q225,Босния и Герцеговина
+http://www.wikidata.org/entity/Q2207288,ремесло,2,окрашивание яиц,http://www.wikidata.org/entity/Q79,Египет
+http://www.wikidata.org/entity/Q2207288,ремесло,2,,http://www.wikidata.org/entity/Q252,Индонезия
+http://www.wikidata.org/entity/Q2207288,ремесло,2,,http://www.wikidata.org/entity/Q18097,Корея
+http://www.wikidata.org/entity/Q2207288,ремесло,2,,http://www.wikidata.org/entity/Q211,Латвия
+http://www.wikidata.org/entity/Q2207288,ремесло,2,золотное шитьё,http://www.wikidata.org/entity/Q233,Мальта
+http://www.wikidata.org/entity/Q2207288,ремесло,2,санкт-галленская вышивка,http://www.wikidata.org/entity/Q39,Швейцария
+http://www.wikidata.org/entity/Q82821,традиция,2,Клятвенная девственница,http://www.wikidata.org/entity/Q222,Албания
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм в Афганистане,http://www.wikidata.org/entity/Q889,Афганистан
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм в Брунее,http://www.wikidata.org/entity/Q921,Бруней
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм в Бутане,http://www.wikidata.org/entity/Q917,Бутан
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм в Гайане,http://www.wikidata.org/entity/Q734,Гайана
+http://www.wikidata.org/entity/Q82821,традиция,2,,http://www.wikidata.org/entity/Q774,Гватемала
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм в Катаре,http://www.wikidata.org/entity/Q846,Катар
+http://www.wikidata.org/entity/Q82821,традиция,2,корейская региональная кухня,http://www.wikidata.org/entity/Q18097,Корея
+http://www.wikidata.org/entity/Q82821,традиция,2,мифология Ниуэ,http://www.wikidata.org/entity/Q889033,Королевство Новой Зеландии
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм на Кубе,http://www.wikidata.org/entity/Q241,Куба
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм в Литве,http://www.wikidata.org/entity/Q37,Литва
+http://www.wikidata.org/entity/Q82821,традиция,2,Арья самадж на Маврикии,http://www.wikidata.org/entity/Q1027,Маврикий
+http://www.wikidata.org/entity/Q82821,традиция,2,Арья самадж в Мозамбике,http://www.wikidata.org/entity/Q1029,Мозамбик
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм в Монголии,http://www.wikidata.org/entity/Q711,Монголия
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм в Нигерии,http://www.wikidata.org/entity/Q1033,Нигерия
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм в Новой Зеландии,http://www.wikidata.org/entity/Q664,Новая Зеландия
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм в ОАЭ,http://www.wikidata.org/entity/Q878,Объединённые Арабские Эмираты
+http://www.wikidata.org/entity/Q82821,традиция,2,писанка,http://www.wikidata.org/entity/Q1246,Республика Косово
+http://www.wikidata.org/entity/Q82821,традиция,2,самбо,http://www.wikidata.org/entity/Q15180,СССР
+http://www.wikidata.org/entity/Q82821,традиция,2,фольклор Сальвадора,http://www.wikidata.org/entity/Q792,Сальвадор
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм в Саудовской Аравии,http://www.wikidata.org/entity/Q851,Саудовская Аравия
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм в Сомали,http://www.wikidata.org/entity/Q1045,Сомали
+http://www.wikidata.org/entity/Q82821,традиция,2,,http://www.wikidata.org/entity/Q1049,Судан
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм в Таджикистане,http://www.wikidata.org/entity/Q863,Таджикистан
+http://www.wikidata.org/entity/Q82821,традиция,2,Арья самадж в Танзании,http://www.wikidata.org/entity/Q924,Танзания
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм в Тонге,http://www.wikidata.org/entity/Q678,Тонга
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм в Тринидаде и Тобаго,http://www.wikidata.org/entity/Q754,Тринидад и Тобаго
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм в Турции,http://www.wikidata.org/entity/Q43,Турция
+http://www.wikidata.org/entity/Q82821,традиция,2,корейская придворная кухня,http://www.wikidata.org/entity/Q28179,Чосон
+http://www.wikidata.org/entity/Q82821,традиция,2,индуизм на Ямайке,http://www.wikidata.org/entity/Q766,Ямайка
+http://www.wikidata.org/entity/Q132241,фестиваль,2,Панбеотии,http://www.wikidata.org/entity/Q187570,Беотия
+http://www.wikidata.org/entity/Q132241,фестиваль,2,,http://www.wikidata.org/entity/Q29999,Королевство Нидерландов
+http://www.wikidata.org/entity/Q132241,фестиваль,2,,http://www.wikidata.org/entity/Q241,Куба
+http://www.wikidata.org/entity/Q132241,фестиваль,2,Дивали,http://www.wikidata.org/entity/Q1027,Маврикий
+http://www.wikidata.org/entity/Q132241,фестиваль,2,,http://www.wikidata.org/entity/Q42307600,Мегара
+http://www.wikidata.org/entity/Q132241,фестиваль,2,Велохора,http://www.wikidata.org/entity/Q217,Молдова
+http://www.wikidata.org/entity/Q132241,фестиваль,2,Международный цирковой фестиваль в Монте-Карло,http://www.wikidata.org/entity/Q235,Монако
+http://www.wikidata.org/entity/Q132241,фестиваль,2,Надом,http://www.wikidata.org/entity/Q711,Монголия
+http://www.wikidata.org/entity/Q132241,фестиваль,2,,http://www.wikidata.org/entity/Q1030,Намибия
+http://www.wikidata.org/entity/Q132241,фестиваль,2,,http://www.wikidata.org/entity/Q733,Парагвай
+http://www.wikidata.org/entity/Q132241,фестиваль,2,,http://www.wikidata.org/entity/Q83286,Социалистическая Федеративная Республика Югославия
+http://www.wikidata.org/entity/Q132241,фестиваль,2,Дивали,http://www.wikidata.org/entity/Q754,Тринидад и Тобаго
+http://www.wikidata.org/entity/Q132241,фестиваль,2,,http://www.wikidata.org/entity/Q265,Узбекистан
+http://www.wikidata.org/entity/Q132241,фестиваль,2,,http://www.wikidata.org/entity/Q766,Ямайка
+http://www.wikidata.org/entity/Q36192,фольклор,2,Батола,http://www.wikidata.org/entity/Q399,Армения
+http://www.wikidata.org/entity/Q36192,фольклор,2,фольклор Германии,http://www.wikidata.org/entity/Q183,Германия
+http://www.wikidata.org/entity/Q36192,фольклор,2,римская мифология,http://www.wikidata.org/entity/Q1747689,Древний Рим
+http://www.wikidata.org/entity/Q36192,фольклор,2,исландский фольклор,http://www.wikidata.org/entity/Q189,Исландия
+http://www.wikidata.org/entity/Q36192,фольклор,2,мифология Ниуэ,http://www.wikidata.org/entity/Q889033,Королевство Новой Зеландии
+http://www.wikidata.org/entity/Q36192,фольклор,2,мальтийский фольклор,http://www.wikidata.org/entity/Q233,Мальта
+http://www.wikidata.org/entity/Q36192,фольклор,2,,http://www.wikidata.org/entity/Q55,Нидерланды
+http://www.wikidata.org/entity/Q36192,фольклор,2,фольклор Синда,http://www.wikidata.org/entity/Q843,Пакистан
+http://www.wikidata.org/entity/Q36192,фольклор,2,Аския,http://www.wikidata.org/entity/Q265,Узбекистан
+http://www.wikidata.org/entity/Q2627975,церемония,2,,http://www.wikidata.org/entity/Q40,Австрия
+http://www.wikidata.org/entity/Q2627975,церемония,2,Папская интронизация,http://www.wikidata.org/entity/Q237,Ватикан
+http://www.wikidata.org/entity/Q2627975,церемония,2,,http://www.wikidata.org/entity/Q28,Венгрия
+http://www.wikidata.org/entity/Q2627975,церемония,2,,http://www.wikidata.org/entity/Q881,Вьетнам
+http://www.wikidata.org/entity/Q2627975,церемония,2,,http://www.wikidata.org/entity/Q1009,Камерун
+http://www.wikidata.org/entity/Q2627975,церемония,2,,http://www.wikidata.org/entity/Q114,Кения
+http://www.wikidata.org/entity/Q2627975,церемония,2,,http://www.wikidata.org/entity/Q28208,Корё
+http://www.wikidata.org/entity/Q2627975,церемония,2,Фамадихана,http://www.wikidata.org/entity/Q1019,Мадагаскар
+http://www.wikidata.org/entity/Q2627975,церемония,2,,http://www.wikidata.org/entity/Q96,Мексика
+http://www.wikidata.org/entity/Q2627975,церемония,2,,http://www.wikidata.org/entity/Q1033,Нигерия
+http://www.wikidata.org/entity/Q2627975,церемония,2,Джюлюс,http://www.wikidata.org/entity/Q12560,Османская империя
+http://www.wikidata.org/entity/Q2627975,церемония,2,,http://www.wikidata.org/entity/Q218,Румыния
+http://www.wikidata.org/entity/Q2627975,церемония,2,Рождество на Украине,http://www.wikidata.org/entity/Q212,Украина
+http://www.wikidata.org/entity/Q2627975,церемония,2,,http://www.wikidata.org/entity/Q928,Филиппины
+http://www.wikidata.org/entity/Q2627975,церемония,2,,http://www.wikidata.org/entity/Q13474305,Франкистская Испания
+http://www.wikidata.org/entity/Q2627975,церемония,2,Кофейная церемония,http://www.wikidata.org/entity/Q986,Эритрея
+http://www.wikidata.org/entity/Q2627975,церемония,2,Кофейная церемония,http://www.wikidata.org/entity/Q115,Эфиопия
+http://www.wikidata.org/entity/Q183916,,1,,http://www.wikidata.org/entity/Q183,Германия
+http://www.wikidata.org/entity/Q1131696,обряд перехода,1,,http://www.wikidata.org/entity/Q408,Австралия
+http://www.wikidata.org/entity/Q1131696,обряд перехода,1,,http://www.wikidata.org/entity/Q219,Болгария
+http://www.wikidata.org/entity/Q1131696,обряд перехода,1,,http://www.wikidata.org/entity/Q27,Ирландия
+http://www.wikidata.org/entity/Q1131696,обряд перехода,1,,http://www.wikidata.org/entity/Q29,Испания
+http://www.wikidata.org/entity/Q1131696,обряд перехода,1,Крещение кукушки,http://www.wikidata.org/entity/Q159,Россия
+http://www.wikidata.org/entity/Q1131696,обряд перехода,1,Последний звонок,http://www.wikidata.org/entity/Q15180,СССР
+http://www.wikidata.org/entity/Q1131696,обряд перехода,1,,http://www.wikidata.org/entity/Q30,США
+http://www.wikidata.org/entity/Q1131696,обряд перехода,1,,http://www.wikidata.org/entity/Q258,ЮАР
+http://www.wikidata.org/entity/Q1131696,обряд перехода,1,Последний звонок,http://www.wikidata.org/entity/Q302045,постсоветское пространство
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q408,Австралия
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q131964,Австрийская империя
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q40,Австрия
+http://www.wikidata.org/entity/Q2207288,ремесло,1,окрашивание яиц,http://www.wikidata.org/entity/Q227,Азербайджан
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q222,Албания
+http://www.wikidata.org/entity/Q2207288,ремесло,1,окрашивание яиц,http://www.wikidata.org/entity/Q184,Беларусь
+http://www.wikidata.org/entity/Q2207288,ремесло,1,окрашивание яиц,http://www.wikidata.org/entity/Q219,Болгария
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q28,Венгрия
+http://www.wikidata.org/entity/Q2207288,ремесло,1,вьетнамская вышивка,http://www.wikidata.org/entity/Q881,Вьетнам
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q219060,Государство Палестина
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q223,Гренландия
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q1061,Гуджарат
+http://www.wikidata.org/entity/Q2207288,ремесло,1,амагерская вышивка,http://www.wikidata.org/entity/Q35,Дания
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q796,Ирак
+http://www.wikidata.org/entity/Q2207288,ремесло,1,маунтмелликская вышивка,http://www.wikidata.org/entity/Q27,Ирландия
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q805,Йемен
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q16,Канада
+http://www.wikidata.org/entity/Q2207288,ремесло,1,китайские резные печати,http://www.wikidata.org/entity/Q29520,Китай
+http://www.wikidata.org/entity/Q2207288,ремесло,1,французская гравюра XVII века,http://www.wikidata.org/entity/Q70972,Королевство Франция
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q37,Литва
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q1025,Мавритания
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q1019,Мадагаскар
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q833,Малайзия
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q1033,Нигерия
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q55,Нидерланды
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q20,Норвегия
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q1049,Судан
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q1044,Сьерра-Леоне
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q863,Таджикистан
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q869,Таиланд
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q948,Тунис
+http://www.wikidata.org/entity/Q2207288,ремесло,1,окрашивание яиц,http://www.wikidata.org/entity/Q212,Украина
+http://www.wikidata.org/entity/Q2207288,ремесло,1,окрашивание яиц,http://www.wikidata.org/entity/Q224,Хорватия
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q213,Чехия
+http://www.wikidata.org/entity/Q2207288,ремесло,1,,http://www.wikidata.org/entity/Q34,Швеция
+http://www.wikidata.org/entity/Q82821,традиция,1,,http://www.wikidata.org/entity/Q11285099,
+http://www.wikidata.org/entity/Q82821,традиция,1,аккадская мифология,http://www.wikidata.org/entity/Q4461035,Аккад
+http://www.wikidata.org/entity/Q82821,традиция,1,,http://www.wikidata.org/entity/Q916,Ангола
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм на Барбадосе,http://www.wikidata.org/entity/Q244,Барбадос
+http://www.wikidata.org/entity/Q82821,традиция,1,Земледельческие обряды башкир,http://www.wikidata.org/entity/Q5710,Башкортостан
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Белизе,http://www.wikidata.org/entity/Q242,Белиз
+http://www.wikidata.org/entity/Q82821,традиция,1,,http://www.wikidata.org/entity/Q962,Бенин
+http://www.wikidata.org/entity/Q82821,традиция,1,Минка,http://www.wikidata.org/entity/Q750,Боливия
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Ботсване,http://www.wikidata.org/entity/Q963,Ботсвана
+http://www.wikidata.org/entity/Q82821,традиция,1,Охота на крапивника,http://www.wikidata.org/entity/Q327,Бретань
+http://www.wikidata.org/entity/Q82821,традиция,1,вавилонская мифология,http://www.wikidata.org/entity/Q47690,Вавилония
+http://www.wikidata.org/entity/Q82821,традиция,1,византийская мифология,http://www.wikidata.org/entity/Q12544,Византия
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Восточном Тиморе,http://www.wikidata.org/entity/Q574,Восточный Тимор
+http://www.wikidata.org/entity/Q82821,традиция,1,гаитянская мифология,http://www.wikidata.org/entity/Q790,Гаити
+http://www.wikidata.org/entity/Q82821,традиция,1,Охота на крапивника,http://www.wikidata.org/entity/Q180086,Галиция
+http://www.wikidata.org/entity/Q82821,традиция,1,фольклор Гондураса,http://www.wikidata.org/entity/Q783,Гондурас
+http://www.wikidata.org/entity/Q82821,традиция,1,,http://www.wikidata.org/entity/Q756617,Датское королевство
+http://www.wikidata.org/entity/Q82821,традиция,1,Батола,http://www.wikidata.org/entity/Q1071142,Джавахетия
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Египте,http://www.wikidata.org/entity/Q79,Египет
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Замбии,http://www.wikidata.org/entity/Q953,Замбия
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Зимбабве,http://www.wikidata.org/entity/Q954,Зимбабве
+http://www.wikidata.org/entity/Q82821,традиция,1,мифология Чимора,http://www.wikidata.org/entity/Q28573,Империя инков
+http://www.wikidata.org/entity/Q82821,традиция,1,фольклор Иордании,http://www.wikidata.org/entity/Q810,Иордания
+http://www.wikidata.org/entity/Q82821,традиция,1,зороастризм,http://www.wikidata.org/entity/Q205047,Иракский Курдистан
+http://www.wikidata.org/entity/Q82821,традиция,1,исландский фольклор,http://www.wikidata.org/entity/Q189,Исландия
+http://www.wikidata.org/entity/Q82821,традиция,1,древнерусский фольклор,http://www.wikidata.org/entity/Q1108445,Киевская Русь
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм на Кипре,http://www.wikidata.org/entity/Q229,Кипр
+http://www.wikidata.org/entity/Q82821,традиция,1,,http://www.wikidata.org/entity/Q13426199,Китайская республика
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм на Коморах,http://www.wikidata.org/entity/Q970,Коморы
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Гибралтаре,http://www.wikidata.org/entity/Q124653007,Королевство Великобритании
+http://www.wikidata.org/entity/Q82821,традиция,1,,http://www.wikidata.org/entity/Q171150,Королевство Венгрия
+http://www.wikidata.org/entity/Q82821,традиция,1,,http://www.wikidata.org/entity/Q153015,Королевство Саксония
+http://www.wikidata.org/entity/Q82821,традиция,1,корёчжан,http://www.wikidata.org/entity/Q28208,Корё
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Кот-д’Ивуаре,http://www.wikidata.org/entity/Q1008,Кот-д’Ивуар
+http://www.wikidata.org/entity/Q82821,традиция,1,,http://www.wikidata.org/entity/Q813,Кыргызстан
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Ливии,http://www.wikidata.org/entity/Q1016,Ливия
+http://www.wikidata.org/entity/Q82821,традиция,1,славянское неоязычество,http://www.wikidata.org/entity/Q32530,Лужица
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Люксембурге,http://www.wikidata.org/entity/Q32,Люксембург
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм на Мадагаскаре,http://www.wikidata.org/entity/Q1019,Мадагаскар
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Малави,http://www.wikidata.org/entity/Q1020,Малави
+http://www.wikidata.org/entity/Q82821,традиция,1,Колиндат,http://www.wikidata.org/entity/Q217,Молдова
+http://www.wikidata.org/entity/Q82821,традиция,1,Охота на крапивника,http://www.wikidata.org/entity/Q2003,Ньюфаундленд и Лабрадор
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Омане,http://www.wikidata.org/entity/Q842,Оман
+http://www.wikidata.org/entity/Q82821,традиция,1,,http://www.wikidata.org/entity/Q23792,Палестина
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Панаме,http://www.wikidata.org/entity/Q804,Панама
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Папуа — Новой Гвинее,http://www.wikidata.org/entity/Q691,Папуа — Новая Гвинея
+http://www.wikidata.org/entity/Q82821,традиция,1,фольклор Парагвая,http://www.wikidata.org/entity/Q733,Парагвай
+http://www.wikidata.org/entity/Q82821,традиция,1,Иван Купала,http://www.wikidata.org/entity/Q931565,Подляшье
+http://www.wikidata.org/entity/Q82821,традиция,1,славянское неоязычество,http://www.wikidata.org/entity/Q104520,Померания
+http://www.wikidata.org/entity/Q82821,традиция,1,Русские обычаи,http://www.wikidata.org/entity/Q907112,Приднестровская Молдавская Республика
+http://www.wikidata.org/entity/Q82821,традиция,1,Радоница,http://www.wikidata.org/entity/Q11196,Республика Сербская
+http://www.wikidata.org/entity/Q82821,традиция,1,,http://www.wikidata.org/entity/Q1037,Руанда
+http://www.wikidata.org/entity/Q82821,традиция,1,Шерть,http://www.wikidata.org/entity/Q186096,Русское царство
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Самоа,http://www.wikidata.org/entity/Q683,Самоа
+http://www.wikidata.org/entity/Q82821,традиция,1,Пасхальный кролик,http://www.wikidata.org/entity/Q12548,Священная Римская империя
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм на Сейшельских Островах,http://www.wikidata.org/entity/Q1042,Сейшельские Острова
+http://www.wikidata.org/entity/Q82821,традиция,1,славянское неоязычество,http://www.wikidata.org/entity/Q81720,Силезия
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Сьерра-Леоне,http://www.wikidata.org/entity/Q1044,Сьерра-Леоне
+http://www.wikidata.org/entity/Q82821,традиция,1,тибетская придворная кухня,http://www.wikidata.org/entity/Q2444884,Тибет
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Того,http://www.wikidata.org/entity/Q945,Того
+http://www.wikidata.org/entity/Q82821,традиция,1,мифология Тувалу,http://www.wikidata.org/entity/Q672,Тувалу
+http://www.wikidata.org/entity/Q82821,традиция,1,индуизм в Туркменистане,http://www.wikidata.org/entity/Q874,Туркменистан
+http://www.wikidata.org/entity/Q82821,традиция,1,угаритская мифология,http://www.wikidata.org/entity/Q191369,Угарит
+http://www.wikidata.org/entity/Q82821,традиция,1,Китобойный промысел на Фарерских островах,http://www.wikidata.org/entity/Q4628,Фарерские острова
+http://www.wikidata.org/entity/Q82821,традиция,1,мифология Чимора,http://www.wikidata.org/entity/Q581741,Чимор
+http://www.wikidata.org/entity/Q82821,традиция,1,эламская мифология,http://www.wikidata.org/entity/Q128904,Элам
+http://www.wikidata.org/entity/Q82821,традиция,1,италоэритрейская кухня,http://www.wikidata.org/entity/Q986,Эритрея
+http://www.wikidata.org/entity/Q82821,традиция,1,,http://www.wikidata.org/entity/Q36704,Югославия
+http://www.wikidata.org/entity/Q82821,традиция,1,фольклор Южной Осетии,http://www.wikidata.org/entity/Q23427,Южная Осетия
+http://www.wikidata.org/entity/Q82821,традиция,1,Государственный синтоизм,http://www.wikidata.org/entity/Q188712,Японская империя
+http://www.wikidata.org/entity/Q82821,традиция,1,арабская каллиграфия,http://www.wikidata.org/entity/Q143487,арабский мир
+http://www.wikidata.org/entity/Q82821,традиция,1,,http://www.wikidata.org/entity/Q156199,курфюршество Саксония
+http://www.wikidata.org/entity/Q82821,традиция,1,Последний звонок,http://www.wikidata.org/entity/Q302045,постсоветское пространство
+http://www.wikidata.org/entity/Q82821,традиция,1,,http://www.wikidata.org/entity/Q1003588,франкофоны
+http://www.wikidata.org/entity/Q132241,фестиваль,1,лафрия,http://www.wikidata.org/entity/Q56398976,
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q18073696,
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q1913865,
+http://www.wikidata.org/entity/Q132241,фестиваль,1,Хары бюльбюль,http://www.wikidata.org/entity/Q131337,Азербайджанская ССР
+http://www.wikidata.org/entity/Q132241,фестиваль,1,Национальный фольклорный фестиваль,http://www.wikidata.org/entity/Q222,Албания
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q12649101,Арголида
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q778,Багамские Острова
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q398,Бахрейн
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q917,Бутан
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q16957,ГДР
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q1000,Габон
+http://www.wikidata.org/entity/Q132241,фестиваль,1,Чудо 1511 года,http://www.wikidata.org/entity/Q1031430,Габсбургские Нидерланды
+http://www.wikidata.org/entity/Q132241,фестиваль,1,Дивали,http://www.wikidata.org/entity/Q734,Гайана
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q1005,Гамбия
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q1006,Гвинея
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q1007,Гвинея-Бисау
+http://www.wikidata.org/entity/Q132241,фестиваль,1,Теофании,http://www.wikidata.org/entity/Q75459,Дельфы
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q785,Джерси
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q11768,Древний Египет
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q1363688,Древний Коринф
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q1356,Западная Бенгалия
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q810,Иордания
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q22890,Ирландия
+http://www.wikidata.org/entity/Q132241,фестиваль,1,Ариран,http://www.wikidata.org/entity/Q423,КНДР
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q1011,Кабо-Верде
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q234963,Каталонские земли
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q229,Кипр
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q13426199,Китайская республика
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q173527,Кносс
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q154195,Королевство Бавария
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q42585,Королевство Богемия
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q171150,Королевство Венгрия
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q172579,Королевство Италия
+http://www.wikidata.org/entity/Q132241,фестиваль,1,Удовольствия чарующего островка,http://www.wikidata.org/entity/Q70972,Королевство Франция
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q817,Кувейт
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q25279,Кюрасао
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q1229422,Лампсак
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q819,Лаос
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q822,Ливан
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q1016,Ливия
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q912,Мали
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q233,Мальта
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q244165,Нагорно-Карабахская Республика
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q842,Оман
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q23792,Палестина
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q11196,Республика Сербская
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q13533316,Родес
+http://www.wikidata.org/entity/Q132241,фестиваль,1,Каравон,http://www.wikidata.org/entity/Q34266,Российская империя
+http://www.wikidata.org/entity/Q132241,фестиваль,1,Каравон,http://www.wikidata.org/entity/Q186096,Русское царство
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q1202,Саксония
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q1042,Сейшельские Острова
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q368628,Сикион
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q858,Сирия
+http://www.wikidata.org/entity/Q132241,фестиваль,1,Хоббитские игрища,http://www.wikidata.org/entity/Q7779,Содружество Независимых Государств
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q838261,Союзная Республика Югославия
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q924,Танзания
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q23681,Турецкая Республика Северного Кипра
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q4628,Фарерские острова
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q48742118,Фашистская Италия
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q702,Федеративные Штаты Микронезии
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q1141295,Феспии
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q11225429,Фивы
+http://www.wikidata.org/entity/Q132241,фестиваль,1,Дивали,http://www.wikidata.org/entity/Q712,Фиджи
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q33946,Чехословакия
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q1297,Чикаго
+http://www.wikidata.org/entity/Q132241,фестиваль,1,Всемирный фестиваль анимационных фильмов в Загребе,http://www.wikidata.org/entity/Q36704,Югославия
+http://www.wikidata.org/entity/Q132241,фестиваль,1,,http://www.wikidata.org/entity/Q188712,Японская империя
+http://www.wikidata.org/entity/Q132241,фестиваль,1,Чудо 1511 года,http://www.wikidata.org/entity/Q7850,китайский язык
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q40,Австрия
+http://www.wikidata.org/entity/Q36192,фольклор,1,аккадская мифология,http://www.wikidata.org/entity/Q4461035,Аккад
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q414,Аргентина
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q398,Бахрейн
+http://www.wikidata.org/entity/Q36192,фольклор,1,фольклор Сараева,http://www.wikidata.org/entity/Q225,Босния и Герцеговина
+http://www.wikidata.org/entity/Q36192,фольклор,1,вавилонская мифология,http://www.wikidata.org/entity/Q47690,Вавилония
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q28,Венгрия
+http://www.wikidata.org/entity/Q36192,фольклор,1,венесуэльская мифология,http://www.wikidata.org/entity/Q717,Венесуэла
+http://www.wikidata.org/entity/Q36192,фольклор,1,византийская мифология,http://www.wikidata.org/entity/Q12544,Византия
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q881,Вьетнам
+http://www.wikidata.org/entity/Q36192,фольклор,1,гаитянская мифология,http://www.wikidata.org/entity/Q790,Гаити
+http://www.wikidata.org/entity/Q36192,фольклор,1,фольклор Гондураса,http://www.wikidata.org/entity/Q783,Гондурас
+http://www.wikidata.org/entity/Q36192,фольклор,1,Древнегреческие мифы о потопе,http://www.wikidata.org/entity/Q41,Греция
+http://www.wikidata.org/entity/Q36192,фольклор,1,фольклор Южной Осетии,http://www.wikidata.org/entity/Q230,Грузия
+http://www.wikidata.org/entity/Q36192,фольклор,1,датский фольклор,http://www.wikidata.org/entity/Q35,Дания
+http://www.wikidata.org/entity/Q36192,фольклор,1,Батола,http://www.wikidata.org/entity/Q1071142,Джавахетия
+http://www.wikidata.org/entity/Q36192,фольклор,1,мифология Чимора,http://www.wikidata.org/entity/Q28573,Империя инков
+http://www.wikidata.org/entity/Q36192,фольклор,1,фольклор Иордании,http://www.wikidata.org/entity/Q810,Иордания
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q794,Иран
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q424,Камбоджа
+http://www.wikidata.org/entity/Q36192,фольклор,1,фольклор Катара,http://www.wikidata.org/entity/Q846,Катар
+http://www.wikidata.org/entity/Q36192,фольклор,1,древнерусский фольклор,http://www.wikidata.org/entity/Q1108445,Киевская Русь
+http://www.wikidata.org/entity/Q36192,фольклор,1,колумбийский фольклор,http://www.wikidata.org/entity/Q739,Колумбия
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q18097,Корея
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q241,Куба
+http://www.wikidata.org/entity/Q36192,фольклор,1,фольклор Малайзии,http://www.wikidata.org/entity/Q833,Малайзия
+http://www.wikidata.org/entity/Q36192,фольклор,1,фольклор Мальдив,http://www.wikidata.org/entity/Q826,Мальдивы
+http://www.wikidata.org/entity/Q36192,фольклор,1,фольклор Мьянмы,http://www.wikidata.org/entity/Q836,Мьянма
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q20,Норвегия
+http://www.wikidata.org/entity/Q36192,фольклор,1,фольклор Парагвая,http://www.wikidata.org/entity/Q733,Парагвай
+http://www.wikidata.org/entity/Q36192,фольклор,1,мифология перуанской Амазонии,http://www.wikidata.org/entity/Q419,Перу
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q218,Румыния
+http://www.wikidata.org/entity/Q36192,фольклор,1,фольклор Сальвадора,http://www.wikidata.org/entity/Q792,Сальвадор
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q851,Саудовская Аравия
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q858,Сирия
+http://www.wikidata.org/entity/Q36192,фольклор,1,сомалийская мифология,http://www.wikidata.org/entity/Q1045,Сомали
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q1049,Судан
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q869,Таиланд
+http://www.wikidata.org/entity/Q36192,фольклор,1,мифология Тувалу,http://www.wikidata.org/entity/Q672,Тувалу
+http://www.wikidata.org/entity/Q36192,фольклор,1,угаритская мифология,http://www.wikidata.org/entity/Q191369,Угарит
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q212,Украина
+http://www.wikidata.org/entity/Q36192,фольклор,1,фиджийская мифология,http://www.wikidata.org/entity/Q712,Фиджи
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q213,Чехия
+http://www.wikidata.org/entity/Q36192,фольклор,1,мифология Чимора,http://www.wikidata.org/entity/Q581741,Чимор
+http://www.wikidata.org/entity/Q36192,фольклор,1,швейцарский фольклор,http://www.wikidata.org/entity/Q39,Швейцария
+http://www.wikidata.org/entity/Q36192,фольклор,1,мифология Эквадора,http://www.wikidata.org/entity/Q736,Эквадор
+http://www.wikidata.org/entity/Q36192,фольклор,1,эламская мифология,http://www.wikidata.org/entity/Q128904,Элам
+http://www.wikidata.org/entity/Q36192,фольклор,1,,http://www.wikidata.org/entity/Q191,Эстония
+http://www.wikidata.org/entity/Q36192,фольклор,1,эфиопская мифология,http://www.wikidata.org/entity/Q115,Эфиопия
+http://www.wikidata.org/entity/Q36192,фольклор,1,фольклор ЮАР,http://www.wikidata.org/entity/Q258,ЮАР
+http://www.wikidata.org/entity/Q36192,фольклор,1,фольклор Южной Осетии,http://www.wikidata.org/entity/Q23427,Южная Осетия
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q11634225,
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q204920,Арагонская корона
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q399,Армения
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q184,Беларусь
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q242,Белиз
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q962,Бенин
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q219,Болгария
+http://www.wikidata.org/entity/Q2627975,церемония,1,Охота на крапивника,http://www.wikidata.org/entity/Q327,Бретань
+http://www.wikidata.org/entity/Q2627975,церемония,1,Коронация византийского императора,http://www.wikidata.org/entity/Q12544,Византия
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q574,Восточный Тимор
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q16957,ГДР
+http://www.wikidata.org/entity/Q2627975,церемония,1,Охота на крапивника,http://www.wikidata.org/entity/Q180086,Галиция
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q35,Дания
+http://www.wikidata.org/entity/Q2627975,церемония,1,коронация фараона,http://www.wikidata.org/entity/Q11768,Древний Египет
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q953,Замбия
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q810,Иордания
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q796,Ирак
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q423,КНДР
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q63158027,Каджарский Иран
+http://www.wikidata.org/entity/Q2627975,церемония,1,Церемония Первой борозды,http://www.wikidata.org/entity/Q424,Камбоджа
+http://www.wikidata.org/entity/Q2627975,церемония,1,Цзи Ли (церемония),http://www.wikidata.org/entity/Q12060881,Китайская империя
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q28370,Когурё
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q739,Колумбия
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q42585,Королевство Богемия
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q171150,Королевство Венгрия
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q209065,Королевство Греция
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q3399982,Королевство Испания
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q1044536,Королевство Испания
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q1649871,Королевство Польское
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q230791,Королевство Шотландия
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q233,Мальта
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q213893,Негери-Сембилан
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q837,Непал
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q664,Новая Зеландия
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q20,Норвегия
+http://www.wikidata.org/entity/Q2627975,церемония,1,Охота на крапивника,http://www.wikidata.org/entity/Q2003,Ньюфаундленд и Лабрадор
+http://www.wikidata.org/entity/Q2627975,церемония,1,Пограничная церемония в Вагахе,http://www.wikidata.org/entity/Q843,Пакистан
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q170072,Республика Соединённых провинций
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q1037,Руанда
+http://www.wikidata.org/entity/Q2627975,церемония,1,Шерть,http://www.wikidata.org/entity/Q186096,Русское царство
+http://www.wikidata.org/entity/Q2627975,церемония,1,Последний звонок,http://www.wikidata.org/entity/Q15180,СССР
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q851,Саудовская Аравия
+http://www.wikidata.org/entity/Q2627975,церемония,1,Галичницкая свадьба,http://www.wikidata.org/entity/Q221,Северная Македония
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q1041,Сенегал
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q28456,Силла
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q334,Сингапур
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q858,Сирия
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q1049,Судан
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q1036,Уганда
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q265,Узбекистан
+http://www.wikidata.org/entity/Q2627975,церемония,1,Охота на крапивника,http://www.wikidata.org/entity/Q25,Уэльс
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q224,Хорватия
+http://www.wikidata.org/entity/Q2627975,церемония,1,инаугурация президента Чешской Республики,http://www.wikidata.org/entity/Q213,Чехия
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q854,Шри-Ланка
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q766,Ямайка
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q188712,Японская империя
+http://www.wikidata.org/entity/Q2627975,церемония,1,,http://www.wikidata.org/entity/Q7209,империя Хань
+http://www.wikidata.org/entity/Q2627975,церемония,1,Последний звонок,http://www.wikidata.org/entity/Q302045,постсоветское пространство
