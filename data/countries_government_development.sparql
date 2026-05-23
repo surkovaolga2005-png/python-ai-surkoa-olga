@@ -1,0 +1,22 @@
+# страны: политическое устройство и уровень социально-экономического развития
+SELECT DISTINCT
+  ?countryLabel
+  ?governmentLabel
+  ?hdi
+  ?population
+  ?gdpPerCapita
+  ?continentLabel
+WHERE {
+  ?country wdt:P31 wd:Q6256 .
+
+  OPTIONAL { ?country wdt:P122 ?government . }
+  OPTIONAL { ?country wdt:P1081 ?hdi . }
+  OPTIONAL { ?country wdt:P1082 ?population . }
+  OPTIONAL { ?country wdt:P2132 ?gdpPerCapita . }
+  OPTIONAL { ?country wdt:P30 ?continent . }
+
+  FILTER NOT EXISTS { ?country wdt:P576 ?endDate . }
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en" . }
+}
+ORDER BY ?countryLabel
