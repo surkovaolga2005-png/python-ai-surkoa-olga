@@ -1,0 +1,330 @@
+country,countryLabel,governmentLabel,hdi,gdpPerCapita,continentLabel
+http://www.wikidata.org/entity/Q139656941,Q139656941,монархия,,,
+http://www.wikidata.org/entity/Q408,Австралия,конституционная монархия,0.951,54348.23,Австралия и Океания
+http://www.wikidata.org/entity/Q408,Австралия,федеративное государство,0.951,54348.23,Австралия и Океания
+http://www.wikidata.org/entity/Q408,Австралия,представительная демократия,0.951,54348.23,Австралия и Океания
+http://www.wikidata.org/entity/Q40,Австрия,республика,0.916,,Европа
+http://www.wikidata.org/entity/Q40,Австрия,смешанная республика,0.916,,Европа
+http://www.wikidata.org/entity/Q40,Австрия,федеративная парламентская республика,0.916,,Европа
+http://www.wikidata.org/entity/Q227,Азербайджан,республика,0.745,,Азия
+http://www.wikidata.org/entity/Q227,Азербайджан,смешанная республика,0.745,,Азия
+http://www.wikidata.org/entity/Q227,Азербайджан,унитарное государство,0.745,,Азия
+http://www.wikidata.org/entity/Q222,Албания,парламентская система,0.796,,Европа
+http://www.wikidata.org/entity/Q262,Алжир,смешанная республика,0.745,,Африка
+http://www.wikidata.org/entity/Q262,Алжир,народная республика,0.745,,Африка
+http://www.wikidata.org/entity/Q21,Англия,конституционная монархия,,,Европа
+http://www.wikidata.org/entity/Q21,Англия,парламентская монархия,,,Европа
+http://www.wikidata.org/entity/Q916,Ангола,республика,0.586,,Африка
+http://www.wikidata.org/entity/Q916,Ангола,президентская республика,0.586,,Африка
+http://www.wikidata.org/entity/Q228,Андорра,parliamentary coprincipality,0.884,,Европа
+http://www.wikidata.org/entity/Q781,Антигуа и Барбуда,конституционная монархия,0.851,,Северная Америка
+http://www.wikidata.org/entity/Q414,Аргентина,федеративная республика,0.842,,Южная Америка
+http://www.wikidata.org/entity/Q399,Армения,республика,0.759,,Азия
+http://www.wikidata.org/entity/Q399,Армения,парламентская система,0.759,,Азия
+http://www.wikidata.org/entity/Q399,Армения,унитарное государство,0.759,,Азия
+http://www.wikidata.org/entity/Q21203,Аруба,монархия,,,Северная Америка
+http://www.wikidata.org/entity/Q889,Афганистан,унитарное государство,0.478,,Азия
+http://www.wikidata.org/entity/Q889,Афганистан,эмират,0.478,,Азия
+http://www.wikidata.org/entity/Q889,Афганистан,исламская теократия,0.478,,Азия
+http://www.wikidata.org/entity/Q1061057,Ачех,абсолютная монархия,,,
+http://www.wikidata.org/entity/Q778,Багамские Острова,конституционная монархия,0.812,,Северная Америка
+http://www.wikidata.org/entity/Q902,Бангладеш,Вестминстерская система,0.661,,Азия
+http://www.wikidata.org/entity/Q902,Бангладеш,парламентская республика,0.661,,Азия
+http://www.wikidata.org/entity/Q244,Барбадос,унитарное государство,0.79,18798,Северная Америка
+http://www.wikidata.org/entity/Q244,Барбадос,парламентская республика,0.79,18798,Северная Америка
+http://www.wikidata.org/entity/Q398,Бахрейн,конституционная монархия,0.875,,Азия
+http://www.wikidata.org/entity/Q184,Беларусь,республика,0.808,,Европа
+http://www.wikidata.org/entity/Q184,Беларусь,президентская республика,0.808,,Европа
+http://www.wikidata.org/entity/Q242,Белиз,конституционная монархия,0.683,,Северная Америка
+http://www.wikidata.org/entity/Q242,Белиз,парламентская монархия,0.683,,Северная Америка
+http://www.wikidata.org/entity/Q31,Бельгия,федеративное государство,0.937,,Европа
+http://www.wikidata.org/entity/Q962,Бенин,республика,0.525,,Африка
+http://www.wikidata.org/entity/Q219,Болгария,парламентская республика,0.799,,Европа
+http://www.wikidata.org/entity/Q750,Боливия,республика,0.692,,Южная Америка
+http://www.wikidata.org/entity/Q750,Боливия,парламентская республика,0.692,,Южная Америка
+http://www.wikidata.org/entity/Q188736,Босния,,,,
+http://www.wikidata.org/entity/Q225,Босния и Герцеговина,республика,0.78,,Европа
+http://www.wikidata.org/entity/Q225,Босния и Герцеговина,федеративная республика,0.78,,Европа
+http://www.wikidata.org/entity/Q963,Ботсвана,парламентская республика,0.693,6710.99,Африка
+http://www.wikidata.org/entity/Q155,Бразилия,президентская республика,0.754,,Южная Америка
+http://www.wikidata.org/entity/Q155,Бразилия,представительная демократия,0.754,,Южная Америка
+http://www.wikidata.org/entity/Q155,Бразилия,федеративная республика,0.754,,Южная Америка
+http://www.wikidata.org/entity/Q921,Бруней,унитарное государство,0.829,,Азия
+http://www.wikidata.org/entity/Q921,Бруней,абсолютная монархия,0.829,,Азия
+http://www.wikidata.org/entity/Q921,Бруней,исламское государство,0.829,,Азия
+http://www.wikidata.org/entity/Q965,Буркина-Фасо,республика,0.449,,Африка
+http://www.wikidata.org/entity/Q965,Буркина-Фасо,военная хунта,0.449,,Африка
+http://www.wikidata.org/entity/Q967,Бурунди,президентская республика,0.426,,Африка
+http://www.wikidata.org/entity/Q967,Бурунди,представительная демократия,0.426,,Африка
+http://www.wikidata.org/entity/Q917,Бутан,конституционная монархия,0.666,,Азия
+http://www.wikidata.org/entity/Q686,Вануату,,0.607,,Океания
+http://www.wikidata.org/entity/Q237,Ватикан,конституционная монархия,,,Европа
+http://www.wikidata.org/entity/Q237,Ватикан,теократия,,,Европа
+http://www.wikidata.org/entity/Q237,Ватикан,папство,,,Европа
+http://www.wikidata.org/entity/Q145,Великобритания,конституционная монархия,0.929,,Европа
+http://www.wikidata.org/entity/Q28,Венгрия,парламентская республика,0.846,37128,Европа
+http://www.wikidata.org/entity/Q717,Венесуэла,президентская республика,0.691,,Южная Америка
+http://www.wikidata.org/entity/Q717,Венесуэла,федеративная республика,0.691,,Южная Америка
+http://www.wikidata.org/entity/Q574,Восточный Тимор,республика,0.607,,Азия
+http://www.wikidata.org/entity/Q574,Восточный Тимор,смешанная республика,0.607,,Азия
+http://www.wikidata.org/entity/Q574,Восточный Тимор,унитарное государство,0.607,,Азия
+http://www.wikidata.org/entity/Q881,Вьетнам,республика,0.703,,Азия
+http://www.wikidata.org/entity/Q881,Вьетнам,однопартийная система,0.703,,Азия
+http://www.wikidata.org/entity/Q881,Вьетнам,унитарное государство,0.703,,Азия
+http://www.wikidata.org/entity/Q1000,Габон,республика,0.706,,Африка
+http://www.wikidata.org/entity/Q790,Гаити,,0.535,,Северная Америка
+http://www.wikidata.org/entity/Q734,Гайана,парламентская республика,0.714,,Южная Америка
+http://www.wikidata.org/entity/Q1005,Гамбия,республика,0.5,,Африка
+http://www.wikidata.org/entity/Q117,Гана,демократия,0.632,,Африка
+http://www.wikidata.org/entity/Q774,Гватемала,президентская республика,0.627,,Северная Америка
+http://www.wikidata.org/entity/Q774,Гватемала,представительная демократия,0.627,,Северная Америка
+http://www.wikidata.org/entity/Q1006,Гвинея,республика,0.465,,Африка
+http://www.wikidata.org/entity/Q1007,Гвинея-Бисау,,0.483,,Африка
+http://www.wikidata.org/entity/Q183,Германия,республика,0.942,,Европа
+http://www.wikidata.org/entity/Q183,Германия,федеративное государство,0.942,,Европа
+http://www.wikidata.org/entity/Q183,Германия,парламентская республика,0.942,,Европа
+http://www.wikidata.org/entity/Q183,Германия,федеративная парламентская республика,0.942,,Европа
+http://www.wikidata.org/entity/Q783,Гондурас,республика,0.621,,Северная Америка
+http://www.wikidata.org/entity/Q219060,Государство Палестина,смешанная республика,0.715,,Азия
+http://www.wikidata.org/entity/Q219060,Государство Палестина,унитарное государство,0.715,,Азия
+http://www.wikidata.org/entity/Q219060,Государство Палестина,парламентская республика,0.715,,Азия
+http://www.wikidata.org/entity/Q769,Гренада,,0.795,,Северная Америка
+http://www.wikidata.org/entity/Q223,Гренландия,парламентская монархия,,,Северная Америка
+http://www.wikidata.org/entity/Q41,Греция,парламентская республика,0.887,,Европа
+http://www.wikidata.org/entity/Q230,Грузия,смешанная республика,0.802,,Европа
+http://www.wikidata.org/entity/Q230,Грузия,унитарное государство,0.802,,Европа
+http://www.wikidata.org/entity/Q230,Грузия,парламентская республика,0.802,,Европа
+http://www.wikidata.org/entity/Q35,Дания,конституционная монархия,0.929,,Европа
+http://www.wikidata.org/entity/Q974,Демократическая Республика Конго,республика,0.479,,Африка
+http://www.wikidata.org/entity/Q977,Джибути,,0.509,,Африка
+http://www.wikidata.org/entity/Q784,Доминика,,0.74,,Северная Америка
+http://www.wikidata.org/entity/Q786,Доминиканская Республика,,0.767,,Северная Америка
+http://www.wikidata.org/entity/Q79,Египет,республика,0.731,,Африка
+http://www.wikidata.org/entity/Q953,Замбия,президентская республика,0.565,,Африка
+http://www.wikidata.org/entity/Q953,Замбия,представительная демократия,0.565,,Африка
+http://www.wikidata.org/entity/Q954,Зимбабве,,0.593,,Африка
+http://www.wikidata.org/entity/Q801,Израиль,унитарное государство,0.919,,Азия
+http://www.wikidata.org/entity/Q801,Израиль,парламентская республика,0.919,,Азия
+http://www.wikidata.org/entity/Q668,Индия,республика,0.633,,Азия
+http://www.wikidata.org/entity/Q668,Индия,федеративная республика,0.633,,Азия
+http://www.wikidata.org/entity/Q668,Индия,конституционная республика,0.633,,Азия
+http://www.wikidata.org/entity/Q668,Индия,демократическая республика,0.633,,Азия
+http://www.wikidata.org/entity/Q252,Индонезия,республика,0.705,,Азия
+http://www.wikidata.org/entity/Q252,Индонезия,президентская республика,0.705,,Азия
+http://www.wikidata.org/entity/Q810,Иордания,,0.72,,Азия
+http://www.wikidata.org/entity/Q796,Ирак,федеративное государство,0.686,,Азия
+http://www.wikidata.org/entity/Q796,Ирак,федеративная республика,0.686,,Азия
+http://www.wikidata.org/entity/Q794,Иран,президентская республика,0.774,,Азия
+http://www.wikidata.org/entity/Q794,Иран,унитарное государство,0.774,,Азия
+http://www.wikidata.org/entity/Q794,Иран,исламская республика,0.774,,Азия
+http://www.wikidata.org/entity/Q794,Иран,исламская теократия,0.774,,Азия
+http://www.wikidata.org/entity/Q27,Ирландия,республика,0.945,,Европа
+http://www.wikidata.org/entity/Q27,Ирландия,унитарное государство,0.945,,Европа
+http://www.wikidata.org/entity/Q189,Исландия,парламентская республика,0.959,,Европа
+http://www.wikidata.org/entity/Q29,Испания,парламентская монархия,0.905,29993.06,Европа
+http://www.wikidata.org/entity/Q38,Италия,парламентская республика,0.895,,Европа
+http://www.wikidata.org/entity/Q805,Йемен,республика,0.455,,Азия
+http://www.wikidata.org/entity/Q805,Йемен,президентская республика,0.455,,Азия
+http://www.wikidata.org/entity/Q423,КНДР,республика,,,Азия
+http://www.wikidata.org/entity/Q423,КНДР,однопартийная система,,,Азия
+http://www.wikidata.org/entity/Q423,КНДР,унитарное государство,,,Азия
+http://www.wikidata.org/entity/Q423,КНДР,чучхе,,,Азия
+http://www.wikidata.org/entity/Q423,КНДР,социалистическое государство,,,Азия
+http://www.wikidata.org/entity/Q423,КНДР,семейная диктатура,,,Азия
+http://www.wikidata.org/entity/Q423,КНДР,коммунистическая диктатура,,,Азия
+http://www.wikidata.org/entity/Q1011,Кабо-Верде,парламентская республика,0.662,,Африка
+http://www.wikidata.org/entity/Q232,Казахстан,президентская республика,0.811,,Европа
+http://www.wikidata.org/entity/Q232,Казахстан,президентская республика,0.811,,Азия
+http://www.wikidata.org/entity/Q424,Камбоджа,конституционная монархия,0.593,,Азия
+http://www.wikidata.org/entity/Q1009,Камерун,республика,0.576,,Африка
+http://www.wikidata.org/entity/Q16,Канада,конституционная монархия,0.936,,Северная Америка
+http://www.wikidata.org/entity/Q16,Канада,федеративное государство,0.936,,Северная Америка
+http://www.wikidata.org/entity/Q16,Канада,парламентская система,0.936,,Северная Америка
+http://www.wikidata.org/entity/Q846,Катар,конституционная монархия,0.855,,Азия
+http://www.wikidata.org/entity/Q114,Кения,,0.575,,Африка
+http://www.wikidata.org/entity/Q229,Кипр,республика,0.896,,Европа
+http://www.wikidata.org/entity/Q229,Кипр,президентская республика,0.896,,Европа
+http://www.wikidata.org/entity/Q710,Кирибати,,0.624,,Океания
+http://www.wikidata.org/entity/Q710,Кирибати,,0.624,,Австралия и Океания
+http://www.wikidata.org/entity/Q148,Китай,республика,0.768,,Азия
+http://www.wikidata.org/entity/Q148,Китай,однопартийная система,0.768,,Азия
+http://www.wikidata.org/entity/Q148,Китай,унитарное государство,0.768,,Азия
+http://www.wikidata.org/entity/Q148,Китай,демократический централизм,0.768,,Азия
+http://www.wikidata.org/entity/Q148,Китай,конституционная республика,0.768,,Азия
+http://www.wikidata.org/entity/Q148,Китай,парламентская республика,0.768,,Азия
+http://www.wikidata.org/entity/Q148,Китай,коммунистическая диктатура,0.768,,Азия
+http://www.wikidata.org/entity/Q865,Китайская Республика (Тайвань),демократия,0.911,,Азия
+http://www.wikidata.org/entity/Q865,Китайская Республика (Тайвань),смешанная республика,0.911,,Азия
+http://www.wikidata.org/entity/Q865,Китайская Республика (Тайвань),конституционная республика,0.911,,Азия
+http://www.wikidata.org/entity/Q739,Колумбия,республика,0.752,,Южная Америка
+http://www.wikidata.org/entity/Q970,Коморы,федеративная республика,0.558,,Африка
+http://www.wikidata.org/entity/Q29999,Королевство Нидерландов,конституционная монархия,0.941,,Европа
+http://www.wikidata.org/entity/Q800,Коста-Рика,,0.809,,Северная Америка
+http://www.wikidata.org/entity/Q1008,Кот-д’Ивуар,республика,0.55,,Африка
+http://www.wikidata.org/entity/Q241,Куба,унитарное государство,0.764,,Северная Америка
+http://www.wikidata.org/entity/Q817,Кувейт,конституционная монархия,0.831,,Азия
+http://www.wikidata.org/entity/Q813,Кыргызстан,парламентская республика,0.692,,Азия
+http://www.wikidata.org/entity/Q25279,Кюрасао,парламентская демократия,0.89,,Северная Америка
+http://www.wikidata.org/entity/Q819,Лаос,народная республика,0.607,,Азия
+http://www.wikidata.org/entity/Q819,Лаос,коммунистическая диктатура,0.607,,Азия
+http://www.wikidata.org/entity/Q211,Латвия,республика,0.863,,Европа
+http://www.wikidata.org/entity/Q211,Латвия,парламентская республика,0.863,,Европа
+http://www.wikidata.org/entity/Q1013,Лесото,конституционная монархия,0.514,,Африка
+http://www.wikidata.org/entity/Q1014,Либерия,республика,0.481,,Африка
+http://www.wikidata.org/entity/Q1014,Либерия,президентская республика,0.481,,Африка
+http://www.wikidata.org/entity/Q1014,Либерия,конституционная республика,0.481,,Африка
+http://www.wikidata.org/entity/Q1014,Либерия,Herrenvolk democracy,0.481,,Африка
+http://www.wikidata.org/entity/Q822,Ливан,парламентская республика,0.706,,Азия
+http://www.wikidata.org/entity/Q1016,Ливия,республика,0.718,,Африка
+http://www.wikidata.org/entity/Q37,Литва,смешанная республика,0.875,,Европа
+http://www.wikidata.org/entity/Q37,Литва,парламентская республика,0.875,,Европа
+http://www.wikidata.org/entity/Q347,Лихтенштейн,конституционная монархия,0.935,,Европа
+http://www.wikidata.org/entity/Q32,Люксембург,конституционная монархия,0.93,,Европа
+http://www.wikidata.org/entity/Q1027,Маврикий,парламентская республика,0.802,,Африка
+http://www.wikidata.org/entity/Q1025,Мавритания,,0.556,,Африка
+http://www.wikidata.org/entity/Q1019,Мадагаскар,республика,0.501,,Африка
+http://www.wikidata.org/entity/Q1020,Малави,,0.512,,Африка
+http://www.wikidata.org/entity/Q833,Малайзия,федеративная монархия,0.803,,Азия
+http://www.wikidata.org/entity/Q833,Малайзия,парламентская монархия,0.803,,Азия
+http://www.wikidata.org/entity/Q833,Малайзия,конституционная монархия,0.803,,Азия
+http://www.wikidata.org/entity/Q833,Малайзия,федеративное государство,0.803,,Азия
+http://www.wikidata.org/entity/Q833,Малайзия,выборная монархия,0.803,,Азия
+http://www.wikidata.org/entity/Q912,Мали,,0.431,,Африка
+http://www.wikidata.org/entity/Q826,Мальдивы,,0.747,,Азия
+http://www.wikidata.org/entity/Q233,Мальта,парламентская демократия,0.918,,Европа
+http://www.wikidata.org/entity/Q1028,Марокко,конституционная монархия,0.683,,Африка
+http://www.wikidata.org/entity/Q709,Маршалловы Острова,,0.639,,Австралия и Океания
+http://www.wikidata.org/entity/Q96,Мексика,империя,0.758,,Северная Америка
+http://www.wikidata.org/entity/Q96,Мексика,президентская республика,0.758,,Северная Америка
+http://www.wikidata.org/entity/Q96,Мексика,федеративная республика,0.758,,Северная Америка
+http://www.wikidata.org/entity/Q96,Мексика,конституционная республика,0.758,,Северная Америка
+http://www.wikidata.org/entity/Q96,Мексика,демократическая республика,0.758,,Северная Америка
+http://www.wikidata.org/entity/Q1029,Мозамбик,,0.446,,Африка
+http://www.wikidata.org/entity/Q217,Молдова,парламентская республика,0.767,,Европа
+http://www.wikidata.org/entity/Q235,Монако,конституционная монархия,,,Европа
+http://www.wikidata.org/entity/Q235,Монако,наследственная монархия,,,Европа
+http://www.wikidata.org/entity/Q711,Монголия,парламентская система,0.739,,Азия
+http://www.wikidata.org/entity/Q836,Мьянма,республика,0.585,,Азия
+http://www.wikidata.org/entity/Q1030,Намибия,,0.615,,Африка
+http://www.wikidata.org/entity/Q697,Науру,,,,Австралия и Океания
+http://www.wikidata.org/entity/Q837,Непал,народная республика,0.602,,Азия
+http://www.wikidata.org/entity/Q837,Непал,федеративная республика,0.602,,Азия
+http://www.wikidata.org/entity/Q1032,Нигер,,0.4,,Африка
+http://www.wikidata.org/entity/Q1033,Нигерия,федеративная республика,0.535,,Африка
+http://www.wikidata.org/entity/Q55,Нидерланды,конституционная монархия,0.931,,Европа
+http://www.wikidata.org/entity/Q55,Нидерланды,парламентская монархия,0.931,,Европа
+http://www.wikidata.org/entity/Q811,Никарагуа,республика,0.667,,Северная Америка
+http://www.wikidata.org/entity/Q34020,Ниуэ,,,,Океания
+http://www.wikidata.org/entity/Q664,Новая Зеландия,парламентская монархия,0.937,41666.64,Австралия и Океания
+http://www.wikidata.org/entity/Q20,Норвегия,конституционная монархия,0.966,,Европа
+http://www.wikidata.org/entity/Q20,Норвегия,представительная демократия,0.966,,Европа
+http://www.wikidata.org/entity/Q878,Объединённые Арабские Эмираты,конституционная монархия,0.911,,Азия
+http://www.wikidata.org/entity/Q878,Объединённые Арабские Эмираты,абсолютная монархия,0.911,,Азия
+http://www.wikidata.org/entity/Q878,Объединённые Арабские Эмираты,федеративная монархия,0.911,,Азия
+http://www.wikidata.org/entity/Q842,Оман,абсолютная монархия,0.816,,Азия
+http://www.wikidata.org/entity/Q26988,Острова Кука,,,,Океания
+http://www.wikidata.org/entity/Q843,Пакистан,федеративная республика,0.544,,Азия
+http://www.wikidata.org/entity/Q843,Пакистан,парламентская республика,0.544,,Азия
+http://www.wikidata.org/entity/Q695,Палау,,0.767,,Океания
+http://www.wikidata.org/entity/Q695,Палау,,0.767,,Австралия и Океания
+http://www.wikidata.org/entity/Q804,Панама,президентская республика,0.805,,Северная Америка
+http://www.wikidata.org/entity/Q691,Папуа — Новая Гвинея,,0.558,2757.22,Австралия и Океания
+http://www.wikidata.org/entity/Q733,Парагвай,,0.717,,Южная Америка
+http://www.wikidata.org/entity/Q419,Перу,президентская республика,0.762,,Южная Америка
+http://www.wikidata.org/entity/Q36,Польша,смешанная республика,0.876,,Европа
+http://www.wikidata.org/entity/Q36,Польша,парламентская система,0.876,,Европа
+http://www.wikidata.org/entity/Q36,Польша,унитарное государство,0.876,,Европа
+http://www.wikidata.org/entity/Q45,Португалия,республика,0.866,,Европа
+http://www.wikidata.org/entity/Q971,Республика Конго,парламентская республика,0.571,,Африка
+http://www.wikidata.org/entity/Q884,Республика Корея,республика,0.925,,Азия
+http://www.wikidata.org/entity/Q884,Республика Корея,президентская республика,0.925,,Азия
+http://www.wikidata.org/entity/Q1246,Республика Косово,парламентская республика,,,Европа
+http://www.wikidata.org/entity/Q159,Россия,суперпрезидентская республика,0.822,,Европа
+http://www.wikidata.org/entity/Q1037,Руанда,смешанная республика,0.578,,Африка
+http://www.wikidata.org/entity/Q218,Румыния,смешанная республика,0.821,,Европа
+http://www.wikidata.org/entity/Q30,США,конституционная республика,0.921,,Северная Америка
+http://www.wikidata.org/entity/Q30,США,демократическая республика,0.921,,Северная Америка
+http://www.wikidata.org/entity/Q792,Сальвадор,республика,0.675,,Северная Америка
+http://www.wikidata.org/entity/Q792,Сальвадор,президентская республика,0.675,,Северная Америка
+http://www.wikidata.org/entity/Q792,Сальвадор,представительная демократия,0.675,,Северная Америка
+http://www.wikidata.org/entity/Q683,Самоа,,0.707,,Австралия и Океания
+http://www.wikidata.org/entity/Q238,Сан-Марино,диархия,0.853,,Европа
+http://www.wikidata.org/entity/Q238,Сан-Марино,парламентская республика,0.853,,Европа
+http://www.wikidata.org/entity/Q1039,Сан-Томе и Принсипи,,0.618,,Африка
+http://www.wikidata.org/entity/Q851,Саудовская Аравия,монархия,0.875,,Азия
+http://www.wikidata.org/entity/Q851,Саудовская Аравия,абсолютная монархия,0.875,,Азия
+http://www.wikidata.org/entity/Q851,Саудовская Аравия,исламская теократия,0.875,,Азия
+http://www.wikidata.org/entity/Q221,Северная Македония,парламентская республика,0.77,,Европа
+http://www.wikidata.org/entity/Q1042,Сейшельские Острова,,0.785,,Африка
+http://www.wikidata.org/entity/Q1041,Сенегал,президентская республика,0.511,,Африка
+http://www.wikidata.org/entity/Q757,Сент-Винсент и Гренадины,конституционная монархия,0.751,,Северная Америка
+http://www.wikidata.org/entity/Q763,Сент-Китс и Невис,конституционная монархия,0.777,,Северная Америка
+http://www.wikidata.org/entity/Q763,Сент-Китс и Невис,федеративная монархия,0.777,,Северная Америка
+http://www.wikidata.org/entity/Q760,Сент-Люсия,конституционная монархия,0.715,,Северная Америка
+http://www.wikidata.org/entity/Q403,Сербия,,0.802,,Европа
+http://www.wikidata.org/entity/Q334,Сингапур,парламентская республика,0.939,,Азия
+http://www.wikidata.org/entity/Q26273,Синт-Мартен,,,,Северная Америка
+http://www.wikidata.org/entity/Q858,Сирия,временное правительство,0.577,,Азия
+http://www.wikidata.org/entity/Q214,Словакия,парламентская республика,0.848,,Европа
+http://www.wikidata.org/entity/Q215,Словения,демократическая республика,0.918,,Европа
+http://www.wikidata.org/entity/Q685,Соломоновы Острова,,0.564,,Океания
+http://www.wikidata.org/entity/Q685,Соломоновы Острова,,0.564,,Австралия и Океания
+http://www.wikidata.org/entity/Q1045,Сомали,федеративная республика,,,Африка
+http://www.wikidata.org/entity/Q34754,Сомалиленд,,,,Африка
+http://www.wikidata.org/entity/Q1049,Судан,федеративная республика,0.508,,Африка
+http://www.wikidata.org/entity/Q730,Суринам,республика,0.73,,Южная Америка
+http://www.wikidata.org/entity/Q1044,Сьерра-Леоне,президентская республика,0.477,,Африка
+http://www.wikidata.org/entity/Q863,Таджикистан,президентская республика,0.685,,Азия
+http://www.wikidata.org/entity/Q869,Таиланд,конституционная монархия,0.8,,Азия
+http://www.wikidata.org/entity/Q869,Таиланд,парламентская монархия,0.8,,Азия
+http://www.wikidata.org/entity/Q924,Танзания,,0.549,,Африка
+http://www.wikidata.org/entity/Q945,Того,,0.539,,Африка
+http://www.wikidata.org/entity/Q678,Тонга,,0.745,,Австралия и Океания
+http://www.wikidata.org/entity/Q754,Тринидад и Тобаго,парламентская республика,0.81,,Северная Америка
+http://www.wikidata.org/entity/Q672,Тувалу,,0.641,,Океания
+http://www.wikidata.org/entity/Q672,Тувалу,,0.641,,Австралия и Океания
+http://www.wikidata.org/entity/Q948,Тунис,смешанная республика,0.731,,Африка
+http://www.wikidata.org/entity/Q948,Тунис,парламентская республика,0.731,,Африка
+http://www.wikidata.org/entity/Q23681,Турецкая Республика Северного Кипра,смешанная республика,,,Европа
+http://www.wikidata.org/entity/Q23681,Турецкая Республика Северного Кипра,унитарное государство,,,Европа
+http://www.wikidata.org/entity/Q23681,Турецкая Республика Северного Кипра,смешанная республика,,,Азия
+http://www.wikidata.org/entity/Q23681,Турецкая Республика Северного Кипра,унитарное государство,,,Азия
+http://www.wikidata.org/entity/Q874,Туркменистан,республика,0.745,,Азия
+http://www.wikidata.org/entity/Q874,Туркменистан,президентская республика,0.745,,Азия
+http://www.wikidata.org/entity/Q43,Турция,президентская республика,0.838,,Азия
+http://www.wikidata.org/entity/Q43,Турция,унитарное государство,0.838,,Азия
+http://www.wikidata.org/entity/Q1036,Уганда,президентская республика,0.525,,Африка
+http://www.wikidata.org/entity/Q265,Узбекистан,президентская республика,0.727,,Азия
+http://www.wikidata.org/entity/Q212,Украина,смешанная республика,0.773,,Европа
+http://www.wikidata.org/entity/Q77,Уругвай,республика,0.809,,Южная Америка
+http://www.wikidata.org/entity/Q77,Уругвай,президентская республика,0.809,,Южная Америка
+http://www.wikidata.org/entity/Q77,Уругвай,participatory democracy,0.809,,Южная Америка
+http://www.wikidata.org/entity/Q702,Федеративные Штаты Микронезии,федеративная республика,0.628,,Австралия и Океания
+http://www.wikidata.org/entity/Q712,Фиджи,,0.73,,Океания
+http://www.wikidata.org/entity/Q928,Филиппины,республика,0.699,,Азия
+http://www.wikidata.org/entity/Q33,Финляндия,парламентская республика,0.94,,Европа
+http://www.wikidata.org/entity/Q142,Франция,смешанная республика,0.903,,Европа
+http://www.wikidata.org/entity/Q224,Хорватия,республика,0.858,,Европа
+http://www.wikidata.org/entity/Q929,Центральноафриканская Республика,,0.404,,Африка
+http://www.wikidata.org/entity/Q657,Чад,,0.394,,Африка
+http://www.wikidata.org/entity/Q236,Черногория,республика,0.832,,Европа
+http://www.wikidata.org/entity/Q213,Чехия,парламентская республика,0.889,31707,Европа
+http://www.wikidata.org/entity/Q298,Чили,демократическая республика,0.855,,Южная Америка
+http://www.wikidata.org/entity/Q39,Швейцария,федеративная республика,0.962,,Европа
+http://www.wikidata.org/entity/Q39,Швейцария,директориальная система,0.962,,Европа
+http://www.wikidata.org/entity/Q34,Швеция,конституционная монархия,0.947,,Европа
+http://www.wikidata.org/entity/Q34,Швеция,представительная демократия,0.947,,Европа
+http://www.wikidata.org/entity/Q854,Шри-Ланка,республика,0.782,,Азия
+http://www.wikidata.org/entity/Q736,Эквадор,республика,0.74,,Южная Америка
+http://www.wikidata.org/entity/Q736,Эквадор,президентская республика,0.74,,Южная Америка
+http://www.wikidata.org/entity/Q983,Экваториальная Гвинея,,0.596,,Африка
+http://www.wikidata.org/entity/Q986,Эритрея,,0.492,,Африка
+http://www.wikidata.org/entity/Q1050,Эсватини,абсолютная монархия,0.597,,Африка
+http://www.wikidata.org/entity/Q191,Эстония,парламентская республика,0.89,23757.62,Европа
+http://www.wikidata.org/entity/Q115,Эфиопия,федеративная республика,0.498,,Африка
+http://www.wikidata.org/entity/Q258,ЮАР,апартеид,0.713,,Африка
+http://www.wikidata.org/entity/Q258,ЮАР,представительная демократия,0.713,,Африка
+http://www.wikidata.org/entity/Q258,ЮАР,парламентская республика,0.713,,Африка
+http://www.wikidata.org/entity/Q958,Южный Судан,федеративная республика,0.385,,Африка
+http://www.wikidata.org/entity/Q766,Ямайка,,0.709,,Северная Америка
+http://www.wikidata.org/entity/Q17,Япония,конституционная монархия,0.925,,Азия
