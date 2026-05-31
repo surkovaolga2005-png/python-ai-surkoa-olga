@@ -1,0 +1,23 @@
+# население стран по годам из Wikidata
+SELECT DISTINCT
+  ?country
+  ?countryLabel
+  ?population
+  ?pointInTime
+  ?year
+WHERE {
+  ?country wdt:P31 wd:Q6256 .
+
+  ?country p:P1082 ?populationStatement .
+  ?populationStatement ps:P1082 ?population .
+
+  OPTIONAL {
+    ?populationStatement pq:P585 ?pointInTime .
+    BIND(YEAR(?pointInTime) AS ?year)
+  }
+
+  FILTER NOT EXISTS { ?country wdt:P576 ?endDate . }
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en" . }
+}
+ORDER BY ?countryLabel ?year
