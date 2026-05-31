@@ -1,9 +1,9 @@
 # страны: политическое устройство и уровень социально-экономического развития
 SELECT DISTINCT
+  ?country
   ?countryLabel
   ?governmentLabel
   ?hdi
-  ?population
   ?gdpPerCapita
   ?continentLabel
 WHERE {
@@ -11,7 +11,6 @@ WHERE {
 
   OPTIONAL { ?country wdt:P122 ?government . }
   OPTIONAL { ?country wdt:P1081 ?hdi . }
-  OPTIONAL { ?country wdt:P1082 ?population . }
   OPTIONAL { ?country wdt:P2132 ?gdpPerCapita . }
   OPTIONAL { ?country wdt:P30 ?continent . }
 
